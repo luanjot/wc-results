@@ -1,0 +1,172 @@
+name	result	time_in_seconds	nationality	year
+Lance Armstrong	1	22630	United States	1993
+Miguel Indurain	2	19	Spain	1993
+Olaf Ludwig	3	19	Germany	1993
+Johan Museeuw	4	19	Belgium	1993
+Maurizio Fondriest	5	19	Italy	1993
+Andrei Tchmil	6	19	Belgium	1993
+Dag-Otto Lauritzen	7	19	Norway	1993
+Gerard Rue	8	19	France	1993
+Bjarne Riis	9	19	Denmark	1993
+Frans Maassen	10	19	Netherlands	1993
+Marco Giovannetti	11	19	Italy	1993
+Claudio Chiappucci	12	24	Italy	1993
+NULL	13	77	NULL	1993
+Adrie van der Poel	14	77	Netherlands	1993
+Laurent Jalabert	15	107	France	1993
+Viatcheslav Ekimov	16	107	Russia	1993
+Felice Puttini	17	107	Switzerland	1993
+Bo Hamburger	18	107	Denmark	1993
+Harald Maier	19	107	Austria	1993
+Richard Virenque	20	107	France	1993
+Gert-Jan Theunisse	21	107	Netherlands	1993
+Piotr Ugrumov	22	107	Latvia	1993
+Rolf Jarmann	23	107	Switzerland	1993
+Pascal Richard	24	107	Switzerland	1993
+Cezary Zamana	25	107	Poland	1993
+Johnny Weltz	26	107	Denmark	1993
+Jan Svorada	27	107	Czech Republic	1993
+NULL	28	107	NULL	1993
+Giancarlo Perini	29	107	Italy	1993
+Gianni Faresin	30	107	Italy	1993
+Massimo Podenzana	31	107	Italy	1993
+Jorg Muller	32	107	Switzerland	1993
+Stephen Hodge	33	107	Australia	1993
+Jose Ramon Uriarte	34	107	Spain	1993
+Rolf Sørensen	35	107	Denmark	1993
+Peter Meinert-Nielsen	36	107	Denmark	1993
+Fernando Escartin	37	107	Spain	1993
+Massimo Ghirotto	38	107	Italy	1993
+Jean-Francois Bernard	39	107	France	1993
+Johan Bruyneel	40	107	Belgium	1993
+Francisco Javier Mauleon	41	107	Spain	1993
+Jon Unzaga	42	107	Spain	1993
+Federico Echave	43	107	Spain	1993
+Bruno Cenghialta	44	107	Italy	1993
+Bruno Cornillet	45	107	France	1993
+Steven Rooks	46	107	Netherlands	1993
+Christian Henn	47	107	Germany	1993
+Alberto Elli	48	107	Italy	1993
+Sean Kelly	49	307	Ireland	1993
+Dmitri Konychev	50	307	Russia	1993
+Bo Andre Namtvedt	51	524	Norway	1993
+Jacky Durand	52	578	France	1993
+Atle Pedersen	53	802	Norway	1993
+Mario Kummer	54	802	Germany	1993
+Frankie Andreu	55	802	United States	1993
+Andy Bishop	56	802	United States	1993
+Fabio Roscioli	57	802	Italy	1993
+John van den Akker	58	802	Netherlands	1993
+Beat Zberg	59	802	Switzerland	1993
+Sean Way	60	1134	Canada	1993
+Thomas Bay	61	1134	Denmark	1993
+NULL	62	1134	NULL	1993
+Roustam Toukhvatoulin	63	1134	Russia	1993
+Tony Doyle	64	1134	Great Britain	1993
+John Tanner	65	1134	Great Britain	1993
+Norman Alvis	66	1134	United States	1993
+Scott Sunderland	DNF	0	Australia	1993
+Phil Anderson	DNF	0	Australia	1993
+Michael Crowe	DNF	0	Australia	1993
+Hernan Buenahora	DNF	0	Colombia	1993
+Carlos Mario Jaramillo	DNF	0	Colombia	1993
+Nelson Rodriguez	DNF	0	Colombia	1993
+Alvaro Mejia	DNF	0	Colombia	1993
+Oliverio Rincon	DNF	0	Colombia	1993
+Jorge Leon Otalvaro	DNF	0	Colombia	1993
+Federico Munoz	DNF	0	Colombia	1993
+Angel Yesid Camargo	DNF	0	Colombia	1993
+Julio Cesar Cadena	DNF	0	Colombia	1993
+Javier de Jesus Zapata	DNF	0	Colombia	1993
+Atle Kvalsvoll	DNF	0	Norway	1993
+NULL	DNF	0	NULL	1993
+NULL	DNF	0	NULL	1993
+Brian Holm Sørensen	DNF	0	Denmark	1993
+Jesper Skibby	DNF	0	Denmark	1993
+Kenneth Weltz	DNF	0	Denmark	1993
+Richard Meehan	DNF	0	Canada	1993
+Bernd Grone	DNF	0	Germany	1993
+Uwe Raab	DNF	0	Germany	1993
+Gerd Audehem	DNF	0	Germany	1993
+Jens Heppner	DNF	0	Germany	1993
+Kai Hundertmarck	DNF	0	Germany	1993
+Heinrich Trumheller	DNF	0	Germany	1993
+Erik Zabel	DNF	0	Germany	1993
+Rolf Aldag	DNF	0	Germany	1993
+NULL	DNF	0	NULL	1993
+Raul Alcala	DNF	0	Mexico	1993
+Andrei Teteriouk	DNF	0	Kazakhstan	1993
+Oleg Kozlitine	DNF	0	Kazakhstan	1993
+Harry Lodge	DNF	0	Great Britain	1993
+Robert Millar	DNF	0	Great Britain	1993
+Chris Lillywhite	DNF	0	Great Britain	1993
+Gary Coltman	DNF	0	Great Britain	1993
+Malcolm Elliott	DNF	0	Great Britain	1993
+Andrew Hampsten	DNF	0	United States	1993
+Steve Hegg	DNF	0	United States	1993
+Nate Reiss	DNF	0	United States	1993
+Bart Bowen	DNF	0	United States	1993
+Darren Baker	DNF	0	United States	1993
+Heinz Imboden	DNF	0	Switzerland	1993
+Thomas Wegmuller	DNF	0	Switzerland	1993
+Mauro Gianetti	DNF	0	Switzerland	1993
+Erich Machler	DNF	0	Switzerland	1993
+Alex Zulle	DNF	0	Switzerland	1993
+Fabian Jeker	DNF	0	Switzerland	1993
+Laurent Dufaux	DNF	0	Switzerland	1993
+Andrew Mclean	DNF	0	South Africa	1993
+Carlos Alberto Maya	DNF	0	Venezuela	1993
+Leonardo Sierra	DNF	0	Venezuela	1993
+Masatoshi Ichikawa	DNF	0	Japan	1993
+NULL	DNF	0	NULL	1993
+Kazuya Hashizume	DNF	0	Japan	1993
+Takahiro Yamada	DNF	0	Japan	1993
+Tomokazu Fujino	DNF	0	Japan	1993
+NULL	DNF	0	NULL	1993
+Zenon Jasku?a	DNF	0	Poland	1993
+NULL	DNF	0	NULL	1993
+Martin Earley	DNF	0	Ireland	1993
+Stephen Roche	DNF	0	Ireland	1993
+Xavier Perez	DNF	0	Andorra	1993
+Emili Perez	DNF	0	Andorra	1993
+Pedro Delgado	DNF	0	Spain	1993
+Herminio Diaz Zabala	DNF	0	Spain	1993
+Mikel Zarrabeitia	DNF	0	Spain	1993
+Ignacio Garcia Camacho	DNF	0	Spain	1993
+Julian Gorospe	DNF	0	Spain	1993
+Marino Alonso	DNF	0	Spain	1993
+Moreno Argentin	DNF	0	Italy	1993
+Davide Cassani	DNF	0	Italy	1993
+Gianni Bugno	DNF	0	Italy	1993
+Gilles Delion	DNF	0	France	1993
+NULL	DNF	0	NULL	1993
+Jean-Claude Colotti	DNF	0	France	1993
+Charly Mottet	DNF	0	France	1993
+Luc Leblanc	DNF	0	France	1993
+Philippe Louviot	DNF	0	France	1993
+Nikolai Galitchanin	DNF	0	Russia	1993
+Vladimir Varava	DNF	0	Russia	1993
+Dimitri Zhdanov	DNF	0	Russia	1993
+Erik Dekker	DNF	0	Netherlands	1993
+Maarten den Bakker	DNF	0	Netherlands	1993
+Erwin Nijboer	DNF	0	Netherlands	1993
+Eddy Bouwmans	DNF	0	Netherlands	1993
+Erik Breukink	DNF	0	Netherlands	1993
+Jelle Nijdam	DNF	0	Netherlands	1993
+Danny Nelissen	DNF	0	Netherlands	1993
+Wilfried Peeters	DNF	0	Belgium	1993
+Johan Remels	DNF	0	Belgium	1993
+Peter Verbeken	DNF	0	Belgium	1993
+Marc Wauters	DNF	0	Belgium	1993
+Alain Van Den Bossche	DNF	0	Belgium	1993
+Jan Nevens	DNF	0	Belgium	1993
+Carlo Bomans	DNF	0	Belgium	1993
+Guy Nulens	DNF	0	Belgium	1993
+Marc Sergeant	DNF	0	Belgium	1993
+Michel Dernies	DNF	0	Belgium	1993
+Josef Regec	DNF	0	Czech Republic	1993
+Christoph Demel	DNF	0	Austria	1993
+Josef Lontscharitsch	DNF	0	Austria	1993
+Paul Popp	DNF	0	Austria	1993
+Bernhard Rassinger	DNF	0	Austria	1993
+Alois Pfleger	DNF	0	Austria	1993

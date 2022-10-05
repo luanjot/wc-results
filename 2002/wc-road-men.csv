@@ -1,0 +1,202 @@
+name	result	time_in_seconds	nationality	year
+Mario Cipollini	1	19803	Italy	2002
+Robbie McEwen	2	0	Australia	2002
+Erik Zabel	3	0	Germany	2002
+Andrej Hauptman	4	0	Slovenia	2002
+Zoran Klemencic	5	0	Slovenia	2002
+Jimmy Casper	6	0	France	2002
+Jaan Kirsipuu	7	0	Estonia	2002
+Sven Teutenberg	8	0	Germany	2002
+Baden Cooke	9	0	Australia	2002
+Julian Dean	10	0	New Zealand	2002
+Jan Svorada	11	0	Czech Republic	2002
+Lars Michaelsen	12	0	Denmark	2002
+Stuart O'Grady	13	0	Australia	2002
+Rene Haselbacher	14	0	Austria	2002
+Gerrit Glomser	15	0	Austria	2002
+Guido Trenti	16	0	United States	2002
+Pedro Goncalves	17	0	Portugal	2002
+Peter Van Petegem	18	0	Belgium	2002
+Dmitri Konychev	19	0	Russia	2002
+Danilo Hondo	20	0	Germany	2002
+Stefan van Dijk	21	0	Netherlands	2002
+Tom Steels	22	0	Belgium	2002
+Fred Rodriguez	23	0	United States	2002
+Frank Høj	24	0	Denmark	2002
+Ludovic Capelle	25	0	Belgium	2002
+Paolo Bettini	26	0	Italy	2002
+Giovanni Lombardi	27	0	Italy	2002
+Alessandro Petacchi	28	16	Italy	2002
+Mario Scirea	29	20	Italy	2002
+Rubens Bertogliati	30	22	Switzerland	2002
+Janek Tombak	31	29	Estonia	2002
+Romans Vainsteins	32	31	Latvia	2002
+Marcus Ljungqvist	33	31	Sweden	2002
+Sergei Ivanov	34	39	Russia	2002
+Yuri Metlushenko	35	39	Ukraine	2002
+Werner Riebenbauer	36	39	Austria	2002
+Charles Dionne	37	39	Canada	2002
+Tom Boonen	38	44	Belgium	2002
+Fabio Sacchi	39	44	Italy	2002
+Danilo Di Luca	40	44	Italy	2002
+Gianluca Bortolami	41	44	Italy	2002
+Alexei Markov	42	56	Russia	2002
+Laurent Brochard	43	56	France	2002
+Jurgen Van Goolen	44	56	Belgium	2002
+Robert Hunter	45	56	South Africa	2002
+Oscar Camenzind	46	59	Switzerland	2002
+Jacky Durand	47	59	France	2002
+Bart Voskamp	48	59	Netherlands	2002
+Alexandre Usov	49	59	Belarus	2002
+Zbigniew Spruch	50	61	Poland	2002
+Ludo Dierckxsens	51	72	Belgium	2002
+Benoit Joachim	52	72	Luxembourg	2002
+Cedric Vasseur	53	72	France	2002
+Alexandre Vinokourov	54	72	Kazakhstan	2002
+Kurt-Asle Arvesen	55	72	Norway	2002
+Yaroslav Popovych	56	72	Ukraine	2002
+Christian Pfannberger	57	72	Austria	2002
+Jans Koerts	58	72	Netherlands	2002
+Igor Astarloa	59	72	Spain	2002
+Michael Skelde	60	72	Denmark	2002
+Pedro Horrillo	61	86	Spain	2002
+Serguei Smetanine	62	86	Russia	2002
+Matthew Wilson	63	86	Australia	2002
+Roger Beuchat	64	86	Switzerland	2002
+David O'Loughlin	65	86	Ireland	2002
+Zbigniew Piatek	66	86	Poland	2002
+Mauro Gianetti	67	86	Switzerland	2002
+Rolf Aldag	68	86	Germany	2002
+Uros Murn	69	86	Slovenia	2002
+Peter Wrolich	70	86	Austria	2002
+Servais Knaven	71	86	Netherlands	2002
+Allan Johansen	72	86	Denmark	2002
+Jose Vicente Garcia Acosta	73	86	Spain	2002
+Toni Tauler	74	97	Spain	2002
+Beat Zberg	75	119	Switzerland	2002
+Marek Rutkiewicz	76	119	Poland	2002
+Rui Sousa	77	119	Portugal	2002
+Luca Scinto	78	119	Italy	2002
+Martin Gerardo Garrido	79	119	Argentina	2002
+Davide Bramati	80	119	Italy	2002
+Gorazd Stangelj	81	119	Slovenia	2002
+Vladimir Miholjevic	82	119	Croatia	2002
+Pavel Brutt	83	119	Russia	2002
+Matteo Tosatto	84	119	Italy	2002
+Aleksandr Kuschynski	85	119	Belarus	2002
+Balazs Rohtmer	86	119	Hungary	2002
+Tomas Konecny	87	119	Czech Republic	2002
+Mindaugas Goncaras	88	119	Lithuania	2002
+Marius Sabaliauskas	89	119	Lithuania	2002
+Tomasz Brozyna	90	119	Poland	2002
+Robert Radosz	91	119	Poland	2002
+Marcin Lewandowski	92	119	Poland	2002
+Pavel Padrnos	93	119	Czech Republic	2002
+Max van Heeswijk	94	119	Netherlands	2002
+Bert Grabsch	95	119	Germany	2002
+Kevin Hulsmans	96	119	Belgium	2002
+Andrey Mizurov	97	119	Kazakhstan	2002
+Daniele Nardello	98	119	Italy	2002
+Arvis Piziks	99	119	Latvia	2002
+Mathew Hayman	100	119	Australia	2002
+Vladimir Smirnov	101	119	Lithuania	2002
+Niki Aebersold	102	119	Switzerland	2002
+Vladimir Karpets	103	119	Russia	2002
+Eduard Gritsun	104	119	Russia	2002
+Andreas Klier	105	119	Germany	2002
+Marc Wauters	106	119	Belgium	2002
+Johan Museeuw	107	119	Belgium	2002
+Richard Virenque	108	119	France	2002
+Michael Boogerd	109	119	Netherlands	2002
+NULL	110	119	NULL	2002
+Vladimir Duma	111	119	Ukraine	2002
+Joseba Beloki	112	126	Spain	2002
+Igor Pugaci	113	160	Moldova	2002
+Aurelien Clerc	114	160	Switzerland	2002
+S?awomir Kohut	115	160	Poland	2002
+Stefan Adamsson	116	160	Sweden	2002
+Martin Elmiger	117	160	Switzerland	2002
+Nuno Duarte Silva Marta	118	160	Portugal	2002
+Ruslan Pidgornyy	119	160	Ukraine	2002
+Henk Vogels	120	160	Australia	2002
+Dylan Casey	121	160	United States	2002
+Jan Schaffrath	122	160	Germany	2002
+Georg Totschnig	123	160	Austria	2002
+Jakob Storm Piil	124	160	Denmark	2002
+Lars Ytting Bak	125	160	Denmark	2002
+Haimar Zubeldia	126	160	Spain	2002
+Luis Perez	127	160	Spain	2002
+Santiago Botero	128	160	Colombia	2002
+Piotr Wadecki	129	160	Poland	2002
+Laurent Jalabert	130	160	France	2002
+Franck Renier	131	160	France	2002
+Nicolas Vogondy	132	160	France	2002
+Mikel Pradera	133	160	Spain	2002
+Ondrej Sosenka	134	160	Czech Republic	2002
+Matthew White	135	160	Australia	2002
+Michael Rogers	136	160	Australia	2002
+Jan Boven	137	160	Netherlands	2002
+Antonio Cruz	138	167	United States	2002
+Dmitri Gaynitdinov	139	167	Russia	2002
+Matthias Kessler	140	178	Germany	2002
+Raphael Schweda	141	178	Germany	2002
+Thor Hushovd	142	178	Norway	2002
+Bekim leif Christensen	143	178	Denmark	2002
+Nicki Sørensen	144	178	Denmark	2002
+Olaf Pollack	145	178	Germany	2002
+Bram Schmitz	146	178	Netherlands	2002
+Aart Vierhouten	147	178	Netherlands	2002
+Fabian Cancellara	148	178	Switzerland	2002
+Karsten Kroon	149	178	Netherlands	2002
+Evgeni Petrov	150	192	Russia	2002
+Bernhard Eisel	151	192	Austria	2002
+Niko Eeckhout	152	206	Belgium	2002
+Alexandr Kolobnev	153	218	Russia	2002
+NULL	154	234	NULL	2002
+Tiaan Kannemeyer	155	234	South Africa	2002
+Oscar Freire	156	234	Spain	2002
+Oscar Sevilla	157	234	Spain	2002
+Jose Enrique Gutierrez	158	250	Spain	2002
+Pablo Lastras	159	250	Spain	2002
+Kim Kirchen	160	250	Luxembourg	2002
+Rolf Huser	161	273	Switzerland	2002
+Steven de Jongh	162	273	Netherlands	2002
+Bobbie Traksel	163	276	Netherlands	2002
+Jo Planckaert	164	276	Belgium	2002
+Gennady Mikhaylov	165	363	Russia	2002
+Mikhail Andreyev	166	944	Kazakhstan	2002
+Aleksandar Nikacevic	167	1232	Serbia	2002
+Jeff Louder	168	1236	United States	2002
+Nathan O'Neill	DNF	0	Australia	2002
+Allan Davis	DNF	0	Australia	2002
+Nick Gates	DNF	0	Australia	2002
+Bradley McGee	DNF	0	Australia	2002
+Mauricio Alberto Ardila	DNF	0	Colombia	2002
+Jairo Perez	DNF	0	Colombia	2002
+Victor Hugo Pena	DNF	0	Colombia	2002
+Sebastian Lang	DNF	0	Germany	2002
+Jens Voigt	DNF	0	Germany	2002
+Dmitriy Muravyev	DNF	0	Kazakhstan	2002
+Pavel Nevdakh	DNF	0	Kazakhstan	2002
+Serguei Yakovlev	DNF	0	Kazakhstan	2002
+Andrey Kashechkin	DNF	0	Kazakhstan	2002
+David Millar	DNF	0	Great Britain	2002
+Julian Winn	DNF	0	Great Britain	2002
+Mariano Friedick	DNF	0	United States	2002
+Mike Sayers	DNF	0	United States	2002
+Ryan Guay	DNF	0	United States	2002
+Chris Horner	DNF	0	United States	2002
+Tim Johnson	DNF	0	United States	2002
+Alexandre Moos	DNF	0	Switzerland	2002
+Alex Zulle	DNF	0	Switzerland	2002
+Saulius Ruskys	DNF	0	Lithuania	2002
+Plamen Stoyanov	DNF	0	Bulgaria	2002
+Hugo Manuel Sabido	DNF	0	Portugal	2002
+Rafael Diaz	DNF	0	Spain	2002
+Pierrick Fedrigo	DNF	0	France	2002
+Christophe Moreau	DNF	0	France	2002
+Nicolas Jalabert	DNF	0	France	2002
+Andy Flickinger	DNF	0	France	2002
+Dmitry Semov	DNF	0	Russia	2002
+Laszlo Bodrogi	DNF	0	France	2002
+Harald Morscher	DNF	0	Austria	2002

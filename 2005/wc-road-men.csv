@@ -1,0 +1,195 @@
+name	result	time_in_seconds	nationality	year
+Tom Boonen	1	23170	Belgium	2005
+Alejandro Valverde	2	0	Spain	2005
+Anthony Geslin	3	0	France	2005
+Marcus Ljungqvist	4	0	Sweden	2005
+Murilo Antonio Fischer	5	0	Brazil	2005
+Jakob Storm Piil	6	0	Denmark	2005
+Alexandr Kolobnev	7	0	Russia	2005
+Andreas Klier	8	0	Germany	2005
+Julian Dean	9	0	New Zealand	2005
+Martin Elmiger	10	0	Switzerland	2005
+Janez Brajkovic	11	0	Slovenia	2005
+Steffen Wesemann	12	0	Switzerland	2005
+Paolo Bettini	13	0	Italy	2005
+Gregory Rast	14	0	Switzerland	2005
+Thomas Dekker	15	0	Netherlands	2005
+Constantino Zaballa	16	0	Spain	2005
+Koos Moerenhout	17	0	Netherlands	2005
+Michael Boogerd	18	0	Netherlands	2005
+Laurent Brochard	18	0	France	2005
+Gorazd Stangelj	19	0	Slovenia	2005
+Alexandre Vinokourov	20	0	Kazakhstan	2005
+Marcos Antonio Serrano	21	0	Spain	2005
+Guido Trenti	22	0	United States	2005
+Denis Menchov	23	10	Russia	2005
+Mario Aerts	24	11	Belgium	2005
+Nick Nuyens	25	21	Belgium	2005
+Bjorn Leukemans	26	23	Belgium	2005
+Alexandre Usov	27	25	Belarus	2005
+Erik Zabel	28	25	Germany	2005
+Robbie McEwen	29	25	Australia	2005
+Uros Murn	30	25	Slovenia	2005
+Rene Haselbacher	31	25	Austria	2005
+Aurelien Clerc	32	25	Switzerland	2005
+Peter Van Petegem	33	25	Belgium	2005
+Alessandro Petacchi	34	25	Italy	2005
+Alejandro Alberto Borrajo	35	25	Argentina	2005
+Matija Kvasina	36	25	Croatia	2005
+Sergey Lagutin	37	25	Russia	2005
+Lars Ytting Bak	38	25	Denmark	2005
+Jan Hruska	39	25	Czech Republic	2005
+Roger Hammond	40	25	Great Britain	2005
+Mikhaylo Khalilov	41	25	Ukraine	2005
+Jan Valach	42	25	Slovakia	2005
+Piotr Wadecki	43	25	Poland	2005
+Marek Rutkiewicz	44	25	Poland	2005
+Vladimir Gusev	45	25	Russia	2005
+Christophe Le Mevel	46	25	France	2005
+Miguel Angel Martin Perdiguero	47	25	Spain	2005
+Bram Tankink	48	25	Netherlands	2005
+Oscar Pereiro	49	25	Spain	2005
+Jean-Patrick Nazon	50	25	France	2005
+Karsten Kroon	51	25	Netherlands	2005
+Denys Kostyuk	52	25	Ukraine	2005
+Filippo Pozzato	53	25	Italy	2005
+David George	54	25	South Africa	2005
+Juan Antonio Flecha	55	25	Spain	2005
+Stijn Devolder	56	25	Belgium	2005
+Andrey Kashechkin	57	25	Kazakhstan	2005
+Fred Rodriguez	58	25	United States	2005
+Joost Posthuma	59	25	Netherlands	2005
+Sergei Ivanov	60	25	Russia	2005
+Igor Astarloa	61	25	Spain	2005
+Marco Velo	62	25	Italy	2005
+Rolf Aldag	63	25	Germany	2005
+Pieter Weening	64	25	Netherlands	2005
+Matteo Tosatto	65	25	Italy	2005
+Sylvain Chavanel	66	25	France	2005
+Francisco Mancebo	67	36	Spain	2005
+David Blanco	68	36	Spain	2005
+Peter Wrolich	69	43	Austria	2005
+Leon van Bon	70	47	Netherlands	2005
+Allan Davis	71	72	Australia	2005
+Luca Paolini	72	76	Italy	2005
+Vladimir Efimkin	73	106	Russia	2005
+Mark Scanlon	74	157	Ireland	2005
+Thomas Lofkvist	75	165	Sweden	2005
+Philippe Gilbert	76	165	Belgium	2005
+Ryder Hesjedal	77	258	Canada	2005
+Pedro Miguel Miranda Soeiro	78	290	Portugal	2005
+James Lewis Perry	79	297	South Africa	2005
+Marc Wauters	80	297	Belgium	2005
+Patrick Calcagni	81	304	Switzerland	2005
+Michael Rogers	82	306	Australia	2005
+Giovanni Lombardi	83	306	Italy	2005
+Martin Prazdnovsky	84	319	Slovakia	2005
+John Lieswyn	85	319	United States	2005
+Simon Gerrans	86	325	Australia	2005
+Baden Cooke	87	325	Australia	2005
+Maxim Gourov	88	325	Kazakhstan	2005
+Rafael Nuritdinov	89	325	Uzbekistan	2005
+Jorg Jaksche	90	325	Germany	2005
+Cedric Vasseur	91	325	France	2005
+Leonardo Fabio Duque	92	361	France	2005
+Henk Vogels	93	361	Australia	2005
+Jaros?aw Zarebski	94	361	Poland	2005
+Bartosz Huzarski	95	361	Poland	2005
+Fabian Wegmann	96	361	Germany	2005
+Markus Zberg	97	361	Switzerland	2005
+Jan Svorada	98	361	Czech Republic	2005
+Petr Bencik	99	361	Czech Republic	2005
+Mathew Hayman	100	361	Australia	2005
+Andrey Mizurov	101	361	Kazakhstan	2005
+NULL	102	361	NULL	2005
+Ian McLeod	103	361	South Africa	2005
+Daniele Bennati	104	361	Italy	2005
+Roger Beuchat	105	361	Switzerland	2005
+Matej Mugerli	106	361	Slovenia	2005
+Guillermo Ruben Bongiorno	107	361	Argentina	2005
+Lorenzo Bernucci	108	361	Italy	2005
+Bernhard Eisel	109	361	Austria	2005
+Magnus Backstedt	110	361	Sweden	2005
+Bradley Wiggins	111	361	Great Britain	2005
+Carlos Da Cruz	112	361	France	2005
+Jimmy Casper	113	361	France	2005
+Thor Hushovd	114	361	Norway	2005
+Markus Fothen	115	423	Germany	2005
+Matthias Kessler	116	423	Germany	2005
+Serguei Yakovlev	117	423	Kazakhstan	2005
+Christophe Kern	118	425	France	2005
+Raivis Belohvosciks	119	590	Latvia	2005
+Luis Felipe Laverde	120	591	Colombia	2005
+Kim Kirchen	121	643	Luxembourg	2005
+Fabian Cancellara	122	645	Switzerland	2005
+Robert Radosz	123	771	Poland	2005
+Shinichi Fukushima	124	776	Japan	2005
+Martin Riska	125	885	Slovakia	2005
+Hugo Manuel Sabido	126	887	Portugal	2005
+NULL	127	887	NULL	2005
+Martin Gerardo Garrido	128	891	Argentina	2005
+Piotr Mazur	129	895	Poland	2005
+Mitja Mahoric	130	1047	Slovenia	2005
+Marcio May	131	1159	Brazil	2005
+Aleksejs Saramotins	132	1540	Latvia	2005
+Rodney Jock Green	133	1630	South Africa	2005
+Makoto Iijima	134	1632	Japan	2005
+Mehdi Sohrabi	135	1633	Iran	2005
+Cadel Evans	DNF	0	Australia	2005
+Brett Lancaster	DNF	0	Australia	2005
+Juan Carlos Lopez	DNF	0	Colombia	2005
+Lars Michaelsen	DNF	0	Denmark	2005
+Dominique Perras	DNF	0	Canada	2005
+Francois Parisien	DNF	0	Canada	2005
+Jens Voigt	DNF	0	Germany	2005
+Sebastian Lang	DNF	0	Germany	2005
+Kanstantsin Siutsou	DNF	0	Belarus	2005
+Aleksandr Kuschynski	DNF	0	Belarus	2005
+Anibal Andres Borrajo	DNF	0	Argentina	2005
+Matias Medici	DNF	0	Argentina	2005
+Gerardo Luis Fernandez	DNF	0	Argentina	2005
+Dmitriy Muravyev	DNF	0	Kazakhstan	2005
+Assan Bazayev	DNF	0	Kazakhstan	2005
+Maxim Iglinskiy	DNF	0	Kazakhstan	2005
+Tom Southam	DNF	0	Great Britain	2005
+Charles Wegelius	DNF	0	Great Britain	2005
+Robin Sharmen	DNF	0	Great Britain	2005
+Steve Cummings	DNF	0	Great Britain	2005
+Philip Zajicek	DNF	0	United States	2005
+Jason McCartney	DNF	0	United States	2005
+Saul Raisin	DNF	0	United States	2005
+Jonathan Patrick McCarty	DNF	0	United States	2005
+Andrey Grivko	DNF	0	Ukraine	2005
+Michael Albasini	DNF	0	Switzerland	2005
+Abbas Saeidi Tanha	DNF	0	Iran	2005
+Amir Zargari	DNF	0	Iran	2005
+Gregory Henderson	DNF	0	New Zealand	2005
+Fraser MacMaster	DNF	0	New Zealand	2005
+Honorio Rafael Machado	DNF	0	Venezuela	2005
+Koji Fukushima	DNF	0	Japan	2005
+Mac Donald Trindade Fernandes	DNF	0	Brazil	2005
+Antonio Xavier Nascimento	DNF	0	Brazil	2005
+Luciano Andre Pagliarini	DNF	0	Brazil	2005
+Pedro Nicacio	DNF	0	Brazil	2005
+Andrej Hauptman	DNF	0	Slovenia	2005
+Jaan Kirsipuu	DNF	0	Estonia	2005
+Linas Balciunas	DNF	0	Lithuania	2005
+Tomas Vaitkus	DNF	0	Lithuania	2005
+Ondrej Sosenka	DNF	0	Czech Republic	2005
+Rene Andrle	DNF	0	Czech Republic	2005
+Krassimir Vasilev	DNF	0	Bulgaria	2005
+Evgeni Gerganov	DNF	0	Bulgaria	2005
+Helder Antonio Duarte Miranda	DNF	0	Portugal	2005
+Bruno Pires	DNF	0	Portugal	2005
+Denis Shkarpeta	DNF	0	Uzbekistan	2005
+David O'Loughlin	DNF	0	Ireland	2005
+David McCann	DNF	0	Ireland	2005
+Evgeni Petrov	DNF	0	Russia	2005
+Max van Heeswijk	DNF	0	Netherlands	2005
+Wilfried Cretskens	DNF	0	Belgium	2005
+Michael Barry	DNS	0	Canada	2005
+Christian Vande Velde	DNS	0	United States	2005
+Sarai Ahad Kazemi	DNS	0	Iran	2005
+Hossein Askari	DNS	0	Iran	2005
+Ghader Mizbani	DNS	0	Iran	2005
+Mindaugas Goncaras	DNS	0	Lithuania	2005

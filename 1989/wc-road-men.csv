@@ -1,0 +1,191 @@
+name	result	time_in_seconds	nationality	year
+Greg LeMond	1	24359	United States	1989
+Dmitri Konychev	2	0	Russia	1989
+Sean Kelly	3	0	Ireland	1989
+Steven Rooks	4	0	Netherlands	1989
+NULL	5	3	NULL	1989
+NULL	6	3	NULL	1989
+Martin Earley	7	10	Ireland	1989
+Gianni Bugno	8	10	Italy	1989
+Rolf Sørensen	9	10	Denmark	1989
+NULL	10	10	NULL	1989
+Marino Lejarreta	11	14	Spain	1989
+Raul Alcala	12	42	Mexico	1989
+Steve Bauer	13	42	Canada	1989
+Tony Rominger	14	42	Switzerland	1989
+Erik Breukink	15	42	Netherlands	1989
+Peter Hilse	16	42	Germany	1989
+Camillo Passera	17	42	Italy	1989
+Federico Echave	18	42	Spain	1989
+Charly Mottet	19	42	France	1989
+Pedro Delgado	20	46	Spain	1989
+Atle Kvalsvoll	21	74	Norway	1989
+Maurizio Fondriest	22	74	Italy	1989
+Emanuele Bombini	23	80	Italy	1989
+NULL	24	80	NULL	1989
+Gilles Delion	25	80	France	1989
+Hartmut Bolts	26	84	Germany	1989
+Eric Caritoux	27	84	France	1989
+NULL	28	84	NULL	1989
+Gerhard Zadrobilek	29	84	Austria	1989
+Robert Millar	30	102	Great Britain	1989
+Enrique Alberto Aja	31	102	Spain	1989
+Luc Roosen	32	102	Belgium	1989
+Mauro Gianetti	33	144	Switzerland	1989
+Andrew Hampsten	34	266	United States	1989
+Alvaro Pino	35	435	Spain	1989
+Thomas Wegmuller	36	473	Switzerland	1989
+Piotr Ugrumov	37	511	Latvia	1989
+Johnny Weltz	38	651	Denmark	1989
+Sammie Moreels	39	731	Belgium	1989
+Inaki Gaston	40	747	Spain	1989
+Thomas Durst	41	747	Germany	1989
+Dariusz Kajzer	42	1317	Germany	1989
+Michael Wilson	DNF	0	Australia	1989
+Tim Jamieson	DNF	0	Australia	1989
+Jim Krynen	DNF	0	Australia	1989
+Scott Steward	DNF	0	Australia	1989
+Stephen Hodge	DNF	0	Australia	1989
+Phil Anderson	DNF	0	Australia	1989
+Alvaro Lozano	DNF	0	Colombia	1989
+Alvaro Mejia	DNF	0	Colombia	1989
+Fabio Enrique Parra	DNF	0	Colombia	1989
+Jose Reynel Montoya	DNF	0	Colombia	1989
+Abelardo Rondon	DNF	0	Colombia	1989
+NULL	DNF	0	NULL	1989
+Carlos Mario Jaramillo	DNF	0	Colombia	1989
+William Palacio	DNF	0	Colombia	1989
+Oscar de Jesus Vargas	DNF	0	Colombia	1989
+NULL	DNF	0	NULL	1989
+Jose Francisco Rodriguez Maldonado	DNF	0	Colombia	1989
+Luis Alberto Herrera	DNF	0	Colombia	1989
+Torjus Larsen	DNF	0	Norway	1989
+Olaf Lurvik	DNF	0	Norway	1989
+NULL	DNF	0	NULL	1989
+Dag Erik Pedersen	DNF	0	Norway	1989
+Dag-Otto Lauritzen	DNF	0	Norway	1989
+Atle Pedersen	DNF	0	Norway	1989
+John Carlsen	DNF	0	Denmark	1989
+Kim Eriksen	DNF	0	Denmark	1989
+Brian-Lykke Bistrup	DNF	0	Denmark	1989
+Brian Holm Sørensen	DNF	0	Denmark	1989
+Jesper Skibby	DNF	0	Denmark	1989
+Søren Lilholt	DNF	0	Denmark	1989
+Kim Andersen	DNF	0	Denmark	1989
+Jan-Erik Østergaard	DNF	0	Denmark	1989
+Per Pedersen	DNF	0	Denmark	1989
+Bjarne Riis	DNF	0	Denmark	1989
+Brian Walton	DNF	0	Canada	1989
+Alex Stieda	DNF	0	Canada	1989
+Peter Gansler	DNF	0	Germany	1989
+Udo Bolts	DNF	0	Germany	1989
+Marcel Wust	DNF	0	Germany	1989
+Josef Holzmann	DNF	0	Germany	1989
+NULL	DNF	0	NULL	1989
+Christian Henn	DNF	0	Germany	1989
+Rolf Golz	DNF	0	Germany	1989
+Marcelo Oscar Alexandre	DNF	0	Argentina	1989
+Rafael Gonzalez Escobar	DNF	0	Mexico	1989
+NULL	DNF	0	NULL	1989
+Deno Davie	DNF	0	Great Britain	1989
+Wayne Bennington	DNF	0	Great Britain	1989
+Sean Yates	DNF	0	Great Britain	1989
+Chris Bailey	DNF	0	United States	1989
+Andy Bishop	DNF	0	United States	1989
+Norman Alvis	DNF	0	United States	1989
+Mike Engleman	DNF	0	United States	1989
+Bob Roll	DNF	0	United States	1989
+Ron Kiefel	DNF	0	United States	1989
+Jeff Pierce	DNF	0	United States	1989
+Roy Knickman	DNF	0	United States	1989
+Alexi Grewal	DNF	0	United States	1989
+Thomas Craven	DNF	0	United States	1989
+Othmar Hafliger	DNF	0	Switzerland	1989
+Karl Kalin	DNF	0	Switzerland	1989
+Urs Zimmermann	DNF	0	Switzerland	1989
+Rolf Jarmann	DNF	0	Switzerland	1989
+Jorg Muller	DNF	0	Switzerland	1989
+Daniel Steiger	DNF	0	Switzerland	1989
+Serge Demierre	DNF	0	Switzerland	1989
+Erich Machler	DNF	0	Switzerland	1989
+Pascal Richard	DNF	0	Switzerland	1989
+John Mullan	DNF	0	New Zealand	1989
+Leonardo Sierra	DNF	0	Venezuela	1989
+Matsuyoshi Takahashi	DNF	0	Japan	1989
+NULL	DNF	0	NULL	1989
+Masatoshi Ichikawa	DNF	0	Japan	1989
+Hideo Murakami	DNF	0	Japan	1989
+Noboru Fujitani	DNF	0	Japan	1989
+Kyoshi Miura	DNF	0	Japan	1989
+Yoshihiro Iida	DNF	0	Japan	1989
+Miroslav Uryga	DNF	0	Poland	1989
+Marek Kulas	DNF	0	Poland	1989
+Marek Szerszynski	DNF	0	Poland	1989
+Andrzej Polkosnik	DNF	0	Poland	1989
+Zbigniew Krudysz	DNF	0	Poland	1989
+NULL	DNF	0	NULL	1989
+NULL	DNF	0	NULL	1989
+Acacio da Silva	DNF	0	Portugal	1989
+Americo Jose Neves Da Silva	DNF	0	Portugal	1989
+Carlos Moreira	DNF	0	Portugal	1989
+Paulo Pinto	DNF	0	Portugal	1989
+Fernando Alberto Oliveira Carvalho	DNF	0	Portugal	1989
+Laurence Roche	DNF	0	Ireland	1989
+John Brady	DNF	0	Ireland	1989
+Pedro Munoz	DNF	0	Spain	1989
+Francisco Jose Antequera	DNF	0	Spain	1989
+Carlos Hernandez	DNF	0	Spain	1989
+Jokin Mujika	DNF	0	Spain	1989
+Miguel Indurain	DNF	0	Spain	1989
+Marco Vitali	DNF	0	Italy	1989
+Moreno Argentin	DNF	0	Italy	1989
+NULL	DNF	0	NULL	1989
+Claudio Chiappucci	DNF	0	Italy	1989
+Stefano Colage	DNF	0	Italy	1989
+NULL	DNF	0	NULL	1989
+Davide Cassani	DNF	0	Italy	1989
+Franco Chioccioli	DNF	0	Italy	1989
+Marino Amadori	DNF	0	Italy	1989
+Laurent Bezault	DNF	0	France	1989
+Martial Gayant	DNF	0	France	1989
+Bruno Cornillet	DNF	0	France	1989
+Marc Madiot	DNF	0	France	1989
+Gerard Rue	DNF	0	France	1989
+NULL	DNF	0	NULL	1989
+Christophe Lavainne	DNF	0	France	1989
+Adrie van der Poel	DNF	0	Netherlands	1989
+Frans Maassen	DNF	0	Netherlands	1989
+Gert-Jan Theunisse	DNF	0	Netherlands	1989
+Eddy Schurer	DNF	0	Netherlands	1989
+Jos van Aert	DNF	0	Netherlands	1989
+Maarten Ducrot	DNF	0	Netherlands	1989
+Peter Winnen	DNF	0	Netherlands	1989
+Patrick Tolhoek	DNF	0	Netherlands	1989
+Marc Van Orsouw	DNF	0	Netherlands	1989
+Luc Suykerbuyk	DNF	0	Netherlands	1989
+Etienne De Wilde	DNF	0	Belgium	1989
+Jean-Marie Wampers	DNF	0	Belgium	1989
+Peter De Clercq	DNF	0	Belgium	1989
+Edwig Van Hooydonck	DNF	0	Belgium	1989
+Dirk De Wolf	DNF	0	Belgium	1989
+Jos Haex	DNF	0	Belgium	1989
+Carlo Bomans	DNF	0	Belgium	1989
+Johan Bruyneel	DNF	0	Belgium	1989
+Eric Van Lancker	DNF	0	Belgium	1989
+Pascal Triebel	DNF	0	Luxembourg	1989
+Uladzimir Murauski	DNF	0	Belarus	1989
+Arvi Tammesalu	DNF	0	Estonia	1989
+Riho Suun	DNF	0	Estonia	1989
+NULL	DNF	0	NULL	1989
+Sergei Uslamine	DNF	0	Russia	1989
+Toomas Kirsipuu	DNF	0	Estonia	1989
+Oleg Iarochenko	DNF	0	Russia	1989
+Nikolai Golovatenko	DNF	0	Russia	1989
+Andrei Tchmil	DNF	0	Belgium	1989
+Vladimir Pulnikov	DNF	0	Ukraine	1989
+Fabio Bernardi	DNF	0	San Marino	1989
+Silvio Zonzini	DNF	0	San Marino	1989
+Sergio Zafferani	DNF	0	San Marino	1989
+Antonio Berardi	DNF	0	San Marino	1989
+Arno Wohlfahrter	DNF	0	Austria	1989
+Helmut Wechselberger	DNF	0	Austria	1989

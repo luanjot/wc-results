@@ -1,0 +1,197 @@
+name	result	time_in_seconds	nationality	year
+Peter Sagan	1	23291	Slovakia	2017
+Alexander Kristoff	2	0	Norway	2017
+Michael Matthews	3	0	Australia	2017
+Matteo Trentin	4	0	Italy	2017
+Ben Swift	5	0	Great Britain	2017
+Greg Van Avermaet	6	0	Belgium	2017
+Michael Albasini	7	0	Switzerland	2017
+Fernando Gaviria	8	0	Colombia	2017
+Alexey Lutsenko	9	0	Kazakhstan	2017
+Julian Alaphilippe	10	0	France	2017
+Micha? Kwiatkowski	11	0	Poland	2017
+Søren Kragh Andersen	12	0	Denmark	2017
+Tony Gallopin	13	0	France	2017
+Zdenek Stybar	14	0	Czech Republic	2017
+Vasil Kiryienka	15	0	Belarus	2017
+Viacheslav Kuznetsov	16	0	Russia	2017
+Philippe Gilbert	17	0	Belgium	2017
+Sergei Chernetski	18	0	Russia	2017
+Rui Costa	19	0	Portugal	2017
+Simon Geschke	20	0	Germany	2017
+Michael Valgren	21	0	Denmark	2017
+Lukas Postlberger	22	0	Austria	2017
+Ilnur Zakarin	23	0	Russia	2017
+Niki Terpstra	24	0	Netherlands	2017
+Tom Dumoulin	25	0	Netherlands	2017
+Dan Martin	26	0	Ireland	2017
+Rigoberto Uran	27	5	Colombia	2017
+Alberto Bettiol	28	5	Italy	2017
+Magnus Cort	29	27	Denmark	2017
+Edvald Boasson Hagen	30	64	Norway	2017
+Jonathan Castroviejo	31	64	Spain	2017
+Julien Simon	32	64	France	2017
+Nicolas Roche	33	64	Ireland	2017
+Bauke Mollema	34	80	Netherlands	2017
+Guillaume Boivin	35	80	Canada	2017
+Peter Kennaugh	36	82	Great Britain	2017
+Warren Barguil	37	83	France	2017
+Diego Ulissi	38	83	Italy	2017
+Reinardt Janse van Rensburg	39	152	South Africa	2017
+Nikias Arndt	40	152	Germany	2017
+Michael Schar	41	152	Switzerland	2017
+Luka Pibernik	42	152	Slovenia	2017
+Aleksejs Saramotins	43	152	Latvia	2017
+Stefan Kung	44	152	Switzerland	2017
+Juraj Sagan	45	152	Slovakia	2017
+Yukiya Arashiro	46	152	Japan	2017
+Marcus Burghardt	47	152	Germany	2017
+Roman Kreuziger	48	152	Czech Republic	2017
+Daryl Impey	49	152	South Africa	2017
+Silvan Dillier	50	152	Switzerland	2017
+Tobias Ludvigsson	51	152	Sweden	2017
+Micha? Go?as	52	152	Poland	2017
+Alex Howes	53	152	United States	2017
+Imanol Erviti	54	152	Spain	2017
+Nelson Oliveira	55	152	Portugal	2017
+Odd Christian Eiking	56	152	Norway	2017
+Elia Viviani	57	152	Italy	2017
+Jose Joaquin Rojas	58	152	Spain	2017
+Sonny Colbrelli	59	152	Italy	2017
+Simon Clarke	60	152	Australia	2017
+Jan Polanc	61	152	Slovenia	2017
+Mitchell Docker	62	152	Australia	2017
+Eduardo Sepulveda	63	152	Argentina	2017
+Tiago Machado	64	152	Portugal	2017
+Ricardo Vilela	65	152	Portugal	2017
+Luis Leon Sanchez	66	152	Spain	2017
+Jarlinson Pantano	67	152	Colombia	2017
+Stefan Denifl	68	152	Austria	2017
+Tony Martin	69	152	Germany	2017
+David de la Cruz	70	152	Spain	2017
+Bob Jungels	71	152	Luxembourg	2017
+Dylan Teuns	72	152	Belgium	2017
+Oliver Naesen	73	152	Belgium	2017
+Sebastian Langeveld	74	152	Netherlands	2017
+Michael Mørkøv	75	152	Denmark	2017
+Christopher Juul-Jensen	76	152	Denmark	2017
+Vegard Stake Laengen	77	152	Norway	2017
+Andrey Grivko	78	193	Ukraine	2017
+Jan Barta	79	193	Czech Republic	2017
+Zhandos Bizhigitov	80	193	Kazakhstan	2017
+Hugo Houle	81	193	Canada	2017
+Pawe? Poljanski	82	193	Poland	2017
+Natnael Berhane	83	193	Eritrea	2017
+Anthony Roux	84	193	France	2017
+Lilian Calmejane	85	193	France	2017
+Cyril Gautier	86	193	France	2017
+Jens Keukeleire	87	193	Belgium	2017
+Salvatore Puccio	88	193	Italy	2017
+Jasper Stuyven	89	349	Belgium	2017
+Paul Martens	90	349	Germany	2017
+Matej Mohoric	91	349	Slovenia	2017
+Luka Mezgec	92	349	Slovenia	2017
+Heinrich Haussler	93	349	Australia	2017
+Jack Haig	94	349	Australia	2017
+Tiesj Benoot	95	393	Belgium	2017
+?ukasz Wisniowski	96	397	Poland	2017
+Scott Thwaites	97	453	Great Britain	2017
+Mark Christian	98	453	Great Britain	2017
+Rick Zabel	99	453	Germany	2017
+Fabian Lienhard	100	453	Switzerland	2017
+Amund Grøndahl Jansen	101	453	Norway	2017
+Ignatas Konovalovas	102	453	Lithuania	2017
+Lluis Mas	103	453	Spain	2017
+Lars Boom	104	455	Netherlands	2017
+Daniele Bennati	105	455	Italy	2017
+Jesus Herrada	106	455	Spain	2017
+Gorka Izagirre	107	455	Spain	2017
+Marc Soler	108	455	Spain	2017
+Kiel Reijnen	109	561	United States	2017
+Tim Wellens	110	561	Belgium	2017
+Gregory Rast	111	564	Switzerland	2017
+Marco Haller	112	564	Austria	2017
+Alessandro De Marchi	113	566	Italy	2017
+Nils Politt	114	621	Germany	2017
+Sergio Henao	115	621	Colombia	2017
+Jasha Sutterlin	116	621	Germany	2017
+Tao Geoghegan Hart	117	621	Great Britain	2017
+Johannes Frohlinger	118	621	Germany	2017
+Koen de Kort	119	621	Netherlands	2017
+Antoine Duchesne	120	621	Canada	2017
+Primoz Roglic	121	621	Slovenia	2017
+Olivier Le Gac	122	621	France	2017
+Mihkel Raim	123	713	Estonia	2017
+Joey Rosskopf	124	713	United States	2017
+Daniel Hoelgaard	125	713	Norway	2017
+Ryan Mullen	126	713	Ireland	2017
+Jiri Polnicky	127	713	Czech Republic	2017
+Dmitriy Gruzdev	128	713	Kazakhstan	2017
+Dion Smith	129	713	New Zealand	2017
+Jose Goncalves	130	713	Portugal	2017
+Maximiliano Richeze	131	713	Argentina	2017
+Jempy Drucker	132	713	Luxembourg	2017
+Rory Sutherland	DNF	0	Australia	2017
+Luke Durbridge	DNF	0	Australia	2017
+Jay McCarthy	DNF	0	Australia	2017
+Mathew Hayman	DNF	0	Australia	2017
+Sebastian Henao	DNF	0	Colombia	2017
+Nelson Andres Soto	DNF	0	Colombia	2017
+Jhonatan Restrepo	DNF	0	Colombia	2017
+Nairo Quintana	DNF	0	Colombia	2017
+Juan Sebastian Molano	DNF	0	Colombia	2017
+Kristoffer Skjerping	DNF	0	Norway	2017
+August Jensen	DNF	0	Norway	2017
+Truls Engen Korsæth	DNF	0	Norway	2017
+Matti Manninen	DNF	0	Finland	2017
+Mads Pedersen	DNF	0	Denmark	2017
+Stanislau Bazhkou	DNF	0	Belarus	2017
+Yauhen Sobal	DNF	0	Belarus	2017
+Kim Magnusson	DNF	0	Sweden	2017
+Salah Eddine Mraouni	DNF	0	Morocco	2017
+Jonathan Dibben	DNF	0	Great Britain	2017
+Adam Blythe	DNF	0	Great Britain	2017
+Ian Stannard	DNF	0	Great Britain	2017
+Owain Doull	DNF	0	Great Britain	2017
+Alexey Vermeulen	DNF	0	United States	2017
+Tejay van Garderen	DNF	0	United States	2017
+Nathan Brown	DNF	0	United States	2017
+Kostyantyn Rybaruk	DNF	0	Ukraine	2017
+Amanuel Ghebreigzabhier	DNF	0	Eritrea	2017
+Mekseb Debesay	DNF	0	Eritrea	2017
+Valens Ndayisenga	DNF	0	Rwanda	2017
+Willie Smit	DNF	0	South Africa	2017
+Krists Neilands	DNF	0	Latvia	2017
+Jack Bauer	DNF	0	New Zealand	2017
+Patrick Bevin	DNF	0	New Zealand	2017
+Andrey Amador	DNF	0	Costa Rica	2017
+Maciej Paterski	DNF	0	Poland	2017
+Maciej Bodnar	DNF	0	Poland	2017
+Jan Tratnik	DNF	0	Slovenia	2017
+Aksel Nommela	DNF	0	Estonia	2017
+Alo Jakin	DNF	0	Estonia	2017
+Elchin Asadov	DNF	0	Azerbaijan	2017
+Petr Vakoc	DNF	0	Czech Republic	2017
+Josef Cerny	DNF	0	Czech Republic	2017
+Serghei Tvetcov	DNF	0	Romania	2017
+Ruben Guerreiro	DNF	0	Portugal	2017
+Conor Dunne	DNF	0	Ireland	2017
+Sean Mckenna	DNF	0	Ireland	2017
+Charalampos Kastrantas	DNF	0	Greece	2017
+Eugert Zhupa	DNF	0	Albania	2017
+Alexis Gougeard	DNF	0	France	2017
+Alexander Porsev	DNF	0	Russia	2017
+Maxim Belkov	DNF	0	Russia	2017
+Ivan Savitskiy	DNF	0	Russia	2017
+Jos van Emden	DNF	0	Netherlands	2017
+Danny van Poppel	DNF	0	Netherlands	2017
+Wout Poels	DNF	0	Netherlands	2017
+Julien Vermote	DNF	0	Belgium	2017
+Alex Kirsch	DNF	0	Luxembourg	2017
+King Lok Cheung	DNF	0	Hongkong	2017
+Michael Kolar	DNF	0	Slovakia	2017
+Erik Baska	DNF	0	Slovakia	2017
+Patrik Tybor	DNF	0	Slovakia	2017
+Marek Canecky	DNF	0	Slovakia	2017
+Damien Shaw	DNS	0	Ireland	2017
+Gianni Moscon	DSQ	0	Italy	2017

@@ -1,0 +1,169 @@
+name	result	time_in_seconds	nationality	year
+Stephen Roche	1	24602	Ireland	1987
+Moreno Argentin	2	1	Italy	1987
+Juan Fernandez	3	1	Spain	1987
+Rolf Golz	4	1	Germany	1987
+Sean Kelly	5	1	Ireland	1987
+Steven Rooks	6	1	Netherlands	1987
+Teun van Vliet	7	1	Netherlands	1987
+Rolf Sørensen	8	1	Denmark	1987
+Erik Breukink	9	1	Netherlands	1987
+NULL	10	1	NULL	1987
+Guido Winterberg	11	1	Switzerland	1987
+Jorg Muller	12	1	Switzerland	1987
+Steve Bauer	13	1	Canada	1987
+Eric Vanderaerden	14	40	Belgium	1987
+Martial Gayant	15	40	France	1987
+Paul Popp	16	40	Austria	1987
+NULL	17	40	NULL	1987
+Adrie van der Poel	18	40	Netherlands	1987
+Marc Sergeant	19	40	Belgium	1987
+Jeff Pierce	20	40	United States	1987
+Phil Anderson	21	40	Australia	1987
+Peter Stevenhaagen	22	40	Netherlands	1987
+Ferdi Van Den Haute	23	40	Belgium	1987
+Czes?aw Lang	24	40	Poland	1987
+Ron Kiefel	25	40	United States	1987
+Guido Bontempi	26	40	Italy	1987
+Alfonso Gutierrez	27	40	Spain	1987
+Lars Wahlqvist	28	40	Sweden	1987
+Gerhard Zadrobilek	29	40	Austria	1987
+Kim Andersen	30	40	Denmark	1987
+Gilbert Glaus	31	40	Switzerland	1987
+Fabian Fuchs	32	40	Switzerland	1987
+Jan Nevens	33	40	Belgium	1987
+Lech Piasecki	34	40	Poland	1987
+Thomas Wegmuller	35	40	Switzerland	1987
+Celestino Prieto	36	40	Spain	1987
+Federico Echave	37	40	Spain	1987
+Marino Lejarreta	38	40	Spain	1987
+Jørgen Marcussen	39	40	Denmark	1987
+Alvaro Pino	40	40	Spain	1987
+Maurizio Fondriest	41	40	Italy	1987
+Gilbert Duclos-Lassalle	42	40	France	1987
+Masatoshi Ichikawa	43	40	Japan	1987
+Paul Kimmage	44	40	Ireland	1987
+Andrew Hampsten	45	40	United States	1987
+Peter Hilse	46	40	Germany	1987
+Erich Machler	47	40	Switzerland	1987
+Giuseppe Saronni	48	40	Italy	1987
+Jean-Francois Bernard	49	40	France	1987
+Kurt Steinmann	50	40	Switzerland	1987
+Joop Zoetemelk	51	40	Netherlands	1987
+Robert Millar	52	40	Great Britain	1987
+Bruno Leali	53	40	Italy	1987
+Emanuele Bombini	54	40	Italy	1987
+Luciano Loro	55	40	Italy	1987
+Massimo Ghirotto	56	40	Italy	1987
+NULL	57	40	NULL	1987
+Acacio da Silva	58	40	Portugal	1987
+Marc Madiot	59	40	France	1987
+Guy Nulens	60	40	Belgium	1987
+Johan van der Velde	61	40	Netherlands	1987
+Gianni Bugno	62	40	Italy	1987
+Othmar Hafliger	63	40	Switzerland	1987
+Miguel Indurain	64	40	Spain	1987
+Roberto Pagnin	65	40	Italy	1987
+Francesco Moser	66	40	Italy	1987
+Jonathan Boyer	67	105	United States	1987
+Etienne De Wilde	68	105	Belgium	1987
+Frederic Brun	69	105	France	1987
+Sean Yates	70	105	Great Britain	1987
+Jozef Lieckens	71	105	Belgium	1987
+David Mcfarlane	DNF	0	Australia	1987
+Paul Miller	DNF	0	Australia	1987
+Michael Lynch	DNF	0	Australia	1987
+Stephen Hodge	DNF	0	Australia	1987
+Wayne Hildred	DNF	0	Australia	1987
+Neil Stephens	DNF	0	Australia	1987
+Gary Trowell	DNF	0	Australia	1987
+Ruben Dario Beltran	DNF	0	Colombia	1987
+Javier Montoya	DNF	0	Colombia	1987
+Rafael Tolosa	DNF	0	Colombia	1987
+Luis Alberto Gonzalez	DNF	0	Colombia	1987
+NULL	DNF	0	NULL	1987
+NULL	DNF	0	NULL	1987
+William Palacio	DNF	0	Colombia	1987
+Carlos Emirio Gutierrez	DNF	0	Colombia	1987
+Oscar de Jesus Vargas	DNF	0	Colombia	1987
+Henry Cardenas	DNF	0	Colombia	1987
+Carlos Mario Jaramillo	DNF	0	Colombia	1987
+Julio Cesar Cadena	DNF	0	Colombia	1987
+NULL	DNF	0	NULL	1987
+Dag-Otto Lauritzen	DNF	0	Norway	1987
+Dag Erik Pedersen	DNF	0	Norway	1987
+Kari Myyrylainen	DNF	0	Finland	1987
+Steen-michael Petersen	DNF	0	Denmark	1987
+Jesper Worre	DNF	0	Denmark	1987
+Jørgen Vagn Pedersen	DNF	0	Denmark	1987
+Johnny Weltz	DNF	0	Denmark	1987
+Brian Holm Sørensen	DNF	0	Denmark	1987
+Per Pedersen	DNF	0	Denmark	1987
+Jesper Skibby	DNF	0	Denmark	1987
+Søren Lilholt	DNF	0	Denmark	1987
+Jens Veggerby	DNF	0	Denmark	1987
+Alex Stieda	DNF	0	Canada	1987
+Reimund Dietzen	DNF	0	Germany	1987
+Hans Neumayer	DNF	0	Germany	1987
+Dietrich Thurau	DNF	0	Germany	1987
+Joachim Schlaphoff	DNF	0	Germany	1987
+NULL	DNF	0	NULL	1987
+Per Mikael Christiansson	DNF	0	Sweden	1987
+Kjell Nilsson	DNF	0	Sweden	1987
+NULL	DNF	0	NULL	1987
+Mark Walsham	DNF	0	Great Britain	1987
+Joey McLoughlin	DNF	0	Great Britain	1987
+Adrian Timmis	DNF	0	Great Britain	1987
+NULL	DNF	0	NULL	1987
+Stuart Coles	DNF	0	Great Britain	1987
+David Mann	DNF	0	Great Britain	1987
+John Herety	DNF	0	Great Britain	1987
+Mike Engleman	DNF	0	United States	1987
+Bob Roll	DNF	0	United States	1987
+Roy Knickman	DNF	0	United States	1987
+Chris Carmichael	DNF	0	United States	1987
+Gerry Fornes	DNF	0	United States	1987
+Tom Schuler	DNF	0	United States	1987
+Davis Phinney	DNF	0	United States	1987
+Stephan Joho	DNF	0	Switzerland	1987
+Tony Rominger	DNF	0	Switzerland	1987
+Rocco Cattaneo	DNF	0	Switzerland	1987
+Bernard Gavillet	DNF	0	Switzerland	1987
+John Mullan	DNF	0	New Zealand	1987
+Steve Swart	DNF	0	New Zealand	1987
+Hitoshi Sato	DNF	0	Japan	1987
+Masaru Saito	DNF	0	Japan	1987
+Teruhiko Fujimura	DNF	0	Japan	1987
+Americo Jose Neves Da Silva	DNF	0	Portugal	1987
+Fernando Alberto Oliveira Carvalho	DNF	0	Portugal	1987
+Manuel Neves	DNF	0	Portugal	1987
+Martin Earley	DNF	0	Ireland	1987
+Alan McCormack	DNF	0	Ireland	1987
+NULL	DNF	0	NULL	1987
+Jose Recio	DNF	0	Spain	1987
+Anselmo Fuerte	DNF	0	Spain	1987
+Pedro Delgado	DNF	0	Spain	1987
+Manuel Jorge Dominguez	DNF	0	Spain	1987
+Juan Carlos Gonzalez	DNF	0	Spain	1987
+Marino Amadori	DNF	0	Italy	1987
+Renato Piccolo	DNF	0	Italy	1987
+Charly Mottet	DNF	0	France	1987
+Christophe Lavainne	DNF	0	France	1987
+Dominique Garde	DNF	0	France	1987
+Marc Gomez	DNF	0	France	1987
+Bruno Wojtinek	DNF	0	France	1987
+NULL	DNF	0	NULL	1987
+NULL	DNF	0	NULL	1987
+Gerrit Solleveld	DNF	0	Netherlands	1987
+Maarten Ducrot	DNF	0	Netherlands	1987
+Jean-Paul van Poppel	DNF	0	Netherlands	1987
+Theo de Rooij	DNF	0	Netherlands	1987
+Herman Frison	DNF	0	Belgium	1987
+Jan Wynants	DNF	0	Belgium	1987
+Jos Haex	DNF	0	Belgium	1987
+Eric Van Lancker	DNF	0	Belgium	1987
+Enzo Mezzapesa	DNF	0	Luxembourg	1987
+Primoz Cerin	DNF	0	Yugoslavia	1987
+Harald Maier	DNF	0	Austria	1987
+Gerhard Schonbacher	DNF	0	Austria	1987
+Milan Jurco	DNF	0	Slovakia	1987

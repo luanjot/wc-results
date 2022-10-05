@@ -1,0 +1,198 @@
+name	result	time_in_seconds	nationality	year
+Mads Pedersen	1	23248	Denmark	2019
+Matteo Trentin	2	0	Italy	2019
+Stefan Kung	3	2	Switzerland	2019
+Gianni Moscon	4	17	Italy	2019
+Peter Sagan	5	43	Slovakia	2019
+Michael Valgren	6	45	Denmark	2019
+Alexander Kristoff	7	70	Norway	2019
+Greg Van Avermaet	8	70	Belgium	2019
+Gorka Izagirre	9	70	Spain	2019
+Rui Costa	10	70	Portugal	2019
+Sonny Colbrelli	11	70	Italy	2019
+Jakob Fuglsang	12	70	Denmark	2019
+Zdenek Stybar	13	70	Czech Republic	2019
+Carlos Betancur	14	70	Colombia	2019
+John Degenkolb	15	70	Germany	2019
+Ion Izagirre	16	74	Spain	2019
+Amund Grøndahl Jansen	17	74	Norway	2019
+Tadej Pogacar	18	74	Slovenia	2019
+Nils Politt	19	82	Germany	2019
+Niki Terpstra	20	82	Netherlands	2019
+Toms Skujins	21	106	Latvia	2019
+Michael Albasini	22	108	Switzerland	2019
+Tony Gallopin	23	110	France	2019
+Michael Matthews	24	117	Australia	2019
+Alberto Bettiol	25	117	Italy	2019
+Tao Geoghegan Hart	26	140	Great Britain	2019
+Marc Hirschi	27	140	Switzerland	2019
+Julian Alaphilippe	28	146	France	2019
+Daniel Felipe Martinez	29	239	Colombia	2019
+Felix Großschartner	30	239	Austria	2019
+Ben Swift	31	398	Great Britain	2019
+Yves Lampaert	32	468	Belgium	2019
+Oliver Naesen	33	487	Belgium	2019
+Sven Erik Bystrøm	34	487	Norway	2019
+Tim Wellens	35	487	Belgium	2019
+Mike Teunissen	36	487	Netherlands	2019
+Dylan Teuns	37	487	Belgium	2019
+Esteban Chaves	38	487	Colombia	2019
+Andrey Amador	39	487	Costa Rica	2019
+Chad Haga	40	627	United States	2019
+Neilson Powless	41	627	United States	2019
+Benoit Cosnefroy	42	652	France	2019
+Mathieu van der Poel	43	652	Netherlands	2019
+Imanol Erviti	44	888	Spain	2019
+Lucas Eriksson	45	888	Sweden	2019
+Petr Vakoc	46	1165	Czech Republic	2019
+Rory Sutherland	DNF	0	Australia	2019
+Simon Clarke	DNF	0	Australia	2019
+Mitchell Docker	DNF	0	Australia	2019
+Jack Haig	DNF	0	Australia	2019
+Luke Durbridge	DNF	0	Australia	2019
+Rohan Dennis	DNF	0	Australia	2019
+Nathan Haas	DNF	0	Australia	2019
+Nairo Quintana	DNF	0	Colombia	2019
+Sebastian Henao	DNF	0	Colombia	2019
+Juan Sebastian Molano	DNF	0	Colombia	2019
+Alvaro Jose Hodeg	DNF	0	Colombia	2019
+Edvald Boasson Hagen	DNF	0	Norway	2019
+Carl Fredrik Hagen	DNF	0	Norway	2019
+Vegard Stake Laengen	DNF	0	Norway	2019
+Christopher Juul-Jensen	DNF	0	Denmark	2019
+Michael Mørkøv	DNF	0	Denmark	2019
+Magnus Cort	DNF	0	Denmark	2019
+Casper Pedersen	DNF	0	Denmark	2019
+Kasper Asgreen	DNF	0	Denmark	2019
+Hugo Houle	DNF	0	Canada	2019
+Benjamin Perry	DNF	0	Canada	2019
+Antoine Duchesne	DNF	0	Canada	2019
+Michael Woods	DNF	0	Canada	2019
+James Piccoli	DNF	0	Canada	2019
+Guillaume Boivin	DNF	0	Canada	2019
+Pascal Ackermann	DNF	0	Germany	2019
+Jonas Koch	DNF	0	Germany	2019
+Jasha Sutterlin	DNF	0	Germany	2019
+Marcus Burghardt	DNF	0	Germany	2019
+Simon Geschke	DNF	0	Germany	2019
+Nikias Arndt	DNF	0	Germany	2019
+Alexandr Riabushenko	DNF	0	Belarus	2019
+Vasil Kiryienka	DNF	0	Belarus	2019
+Kim Magnusson	DNF	0	Sweden	2019
+Eduardo Sepulveda	DNF	0	Argentina	2019
+Dmitriy Gruzdev	DNF	0	Kazakhstan	2019
+Alexey Lutsenko	DNF	0	Kazakhstan	2019
+Yevgeniy Gidich	DNF	0	Kazakhstan	2019
+Yuriy Natarov	DNF	0	Kazakhstan	2019
+Zhandos Bizhigitov	DNF	0	Kazakhstan	2019
+Geraint Thomas	DNF	0	Great Britain	2019
+Owain Doull	DNF	0	Great Britain	2019
+Adam Yates	DNF	0	Great Britain	2019
+Ian Stannard	DNF	0	Great Britain	2019
+Lawson Craddock	DNF	0	United States	2019
+Alex Howes	DNF	0	United States	2019
+Danilo Wyss	DNF	0	Switzerland	2019
+Michael Schar	DNF	0	Switzerland	2019
+Silvan Dillier	DNF	0	Switzerland	2019
+Mekseb Debesay	DNF	0	Eritrea	2019
+Daniel Teklehaimanot	DNF	0	Eritrea	2019
+Natnael Berhane	DNF	0	Eritrea	2019
+Drikus Coetzee	DNF	0	Namibia	2019
+Stefan de Bod	DNF	0	South Africa	2019
+Daryl Impey	DNF	0	South Africa	2019
+Nic Dlamini	DNF	0	South Africa	2019
+Emils Liepins	DNF	0	Latvia	2019
+Krists Neilands	DNF	0	Latvia	2019
+Dion Smith	DNF	0	New Zealand	2019
+Jack Bauer	DNF	0	New Zealand	2019
+Shane Archbold	DNF	0	New Zealand	2019
+Patrick Bevin	DNF	0	New Zealand	2019
+Yukiya Arashiro	DNF	0	Japan	2019
+Hideto Nakane	DNF	0	Japan	2019
+Micha? Go?as	DNF	0	Poland	2019
+Pawe? Poljanski	DNF	0	Poland	2019
+?ukasz Owsian	DNF	0	Poland	2019
+?ukasz Wisniowski	DNF	0	Poland	2019
+Rafa? Majka	DNF	0	Poland	2019
+Maciej Bodnar	DNF	0	Poland	2019
+Jan Tratnik	DNF	0	Slovenia	2019
+Primoz Roglic	DNF	0	Slovenia	2019
+Luka Pibernik	DNF	0	Slovenia	2019
+Grega Bole	DNF	0	Slovenia	2019
+Matej Mohoric	DNF	0	Slovenia	2019
+David Per	DNF	0	Slovenia	2019
+Jan Polanc	DNF	0	Slovenia	2019
+Rein Taaramae	DNF	0	Estonia	2019
+Tanel Kangert	DNF	0	Estonia	2019
+Mihkel Raim	DNF	0	Estonia	2019
+Alo Jakin	DNF	0	Estonia	2019
+Evaldas Siskevicius	DNF	0	Lithuania	2019
+Gediminas Bagdonas	DNF	0	Lithuania	2019
+Josef Cerny	DNF	0	Czech Republic	2019
+Frantisek Sisr	DNF	0	Czech Republic	2019
+Roman Kreuziger	DNF	0	Czech Republic	2019
+Jan Barta	DNF	0	Czech Republic	2019
+Antonio Barac	DNF	0	Croatia	2019
+Eduard-Michael Grosu	DNF	0	Romania	2019
+Rui Oliveira	DNF	0	Portugal	2019
+Ruben Guerreiro	DNF	0	Portugal	2019
+Nelson Oliveira	DNF	0	Portugal	2019
+Jose Goncalves	DNF	0	Portugal	2019
+Dan Martin	DNF	0	Ireland	2019
+Rory Townsend	DNF	0	Ireland	2019
+Ryan Mullen	DNF	0	Ireland	2019
+Sam Bennett	DNF	0	Ireland	2019
+Conor Dunne	DNF	0	Ireland	2019
+Eddie Dunbar	DNF	0	Ireland	2019
+Polychronis Tzortzakis	DNF	0	Greece	2019
+Stylianos Farantakis	DNF	0	Greece	2019
+Richard Carapaz	DNF	0	Ecuador	2019
+Jonathan Klever Caicedo	DNF	0	Ecuador	2019
+Jhonatan Narvaez	DNF	0	Ecuador	2019
+Jefferson Alveiro Cepeda	DNF	0	Ecuador	2019
+Alejandro Valverde	DNF	0	Spain	2019
+Jose Joaquin Rojas	DNF	0	Spain	2019
+Marc Soler	DNF	0	Spain	2019
+Luis Leon Sanchez	DNF	0	Spain	2019
+Jonathan Castroviejo	DNF	0	Spain	2019
+Ivan Garcia Cortina	DNF	0	Spain	2019
+Giovanni Visconti	DNF	0	Italy	2019
+Davide Cimolai	DNF	0	Italy	2019
+Diego Ulissi	DNF	0	Italy	2019
+Salvatore Puccio	DNF	0	Italy	2019
+Christophe Laporte	DNF	0	France	2019
+Anthony Roux	DNF	0	France	2019
+Julien Bernard	DNF	0	France	2019
+Remi Cavagna	DNF	0	France	2019
+Florian Senechal	DNF	0	France	2019
+Pavel Sivakov	DNF	0	France	2019
+Dmitry Strakhov	DNF	0	Russia	2019
+Alexander Evtushenko	DNF	0	Russia	2019
+Stepan Kurianov	DNF	0	Russia	2019
+Sergei Chernetski	DNF	0	Russia	2019
+Aleksandr Vlasov	DNF	0	Russia	2019
+Jos van Emden	DNF	0	Netherlands	2019
+Dylan van Baarle	DNF	0	Netherlands	2019
+Bauke Mollema	DNF	0	Netherlands	2019
+Sebastian Langeveld	DNF	0	Netherlands	2019
+Pieter Weening	DNF	0	Netherlands	2019
+Tim Declercq	DNF	0	Belgium	2019
+Philippe Gilbert	DNF	0	Belgium	2019
+Remco Evenepoel	DNF	0	Belgium	2019
+Bob Jungels	DNF	0	Luxembourg	2019
+Tom Wirtgen	DNF	0	Luxembourg	2019
+Alex Kirsch	DNF	0	Luxembourg	2019
+Ben Gastauer	DNF	0	Luxembourg	2019
+Erik Baska	DNF	0	Slovakia	2019
+Juraj Sagan	DNF	0	Slovakia	2019
+Jan Andrej Cully	DNF	0	Slovakia	2019
+Marton Dina	DNF	0	Hungary	2019
+Peter Kusztor	DNF	0	Hungary	2019
+Lukas Postlberger	DNF	0	Austria	2019
+Patrick Konrad	DNF	0	Austria	2019
+Hermann Pernsteiner	DNF	0	Austria	2019
+Marco Haller	DNF	0	Austria	2019
+Michael Gogl	DNF	0	Austria	2019
+Mark Padun	DNS	0	Ukraine	2019
+Merhawi Kudus	DNS	0	Eritrea	2019
+Jay Robert Thomson	DNS	0	South Africa	2019

@@ -1,0 +1,211 @@
+name	result	time_in_seconds	nationality	year
+Mark Cavendish	1	20427	Great Britain	2011
+Matthew Goss	2	0	Australia	2011
+Andre Greipel	3	0	Germany	2011
+Fabian Cancellara	4	0	Switzerland	2011
+Jurgen Roelandts	5	0	Belgium	2011
+Romain Feillu	6	0	France	2011
+Borut Bozic	7	0	Slovenia	2011
+Edvald Boasson Hagen	8	0	Norway	2011
+Oscar Freire	9	0	Spain	2011
+Tyler Farrar	10	0	United States	2011
+Denis Galimzyanov	11	0	Russia	2011
+Peter Sagan	12	0	Slovakia	2011
+Anthony Ravard	13	0	France	2011
+Daniele Bennati	14	0	Italy	2011
+Rui Costa	15	0	Portugal	2011
+Manuel Antonio Leal Cardoso	16	0	Portugal	2011
+Philippe Gilbert	17	0	Belgium	2011
+Michael Mørkøv	18	0	Denmark	2011
+David Veilleux	19	0	Canada	2011
+Grega Bole	20	0	Slovenia	2011
+Pim Ligthart	21	0	Netherlands	2011
+Aleksejs Saramotins	22	0	Latvia	2011
+Denys Kostyuk	23	0	Ukraine	2011
+Taylor Phinney	24	0	United States	2011
+Gediminas Bagdonas	25	0	Lithuania	2011
+Jakob Fuglsang	26	0	Denmark	2011
+Yauheni Hutarovich	27	0	Belarus	2011
+Marek Rutkiewicz	28	0	Poland	2011
+Lars Boom	29	0	Netherlands	2011
+Takashi Miyazawa	30	0	Japan	2011
+Micha? Kwiatkowski	31	0	Poland	2011
+Lars Ytting Bak	32	0	Denmark	2011
+Aleksandr Kuschynski	33	0	Belarus	2011
+Matija Kvasina	34	0	Croatia	2011
+Johnny Hoogerland	35	0	Netherlands	2011
+Matt Brammeier	36	0	Ireland	2011
+Yoann Offredo	37	0	France	2011
+Maciej Paterski	38	0	Poland	2011
+Thomas Lofkvist	39	0	Sweden	2011
+Sacha Modolo	40	0	Italy	2011
+Andre Cardoso	41	0	Portugal	2011
+Heinrich Haussler	42	0	Australia	2011
+Nicki Sørensen	43	0	Denmark	2011
+Maarten Tjallingii	44	0	Netherlands	2011
+Gorazd Stangelj	45	0	Slovenia	2011
+Thomas Rohregger	46	0	Austria	2011
+Gabriel Rasch	47	0	Norway	2011
+Nick Nuyens	48	0	Belgium	2011
+Juan Jose Haedo	49	0	Argentina	2011
+Janez Brajkovic	50	0	Slovenia	2011
+Nicolas Roche	51	0	Ireland	2011
+Bjorn Leukemans	52	0	Belgium	2011
+Tony Gallopin	53	0	France	2011
+Fredrik Kessiakoff	54	0	Sweden	2011
+Rene Mandri	55	0	Estonia	2011
+Oleg Chuzhda	56	0	Ukraine	2011
+Anders Lund	57	0	Denmark	2011
+Filipe Cardoso	58	0	Portugal	2011
+Ricardo Mestre	59	0	Portugal	2011
+Pieter Weening	60	0	Netherlands	2011
+Jose Joaquin Rojas	61	0	Spain	2011
+Bauke Mollema	62	0	Netherlands	2011
+Klaas Lodewyck	63	0	Belgium	2011
+Pavel Brutt	64	0	Russia	2011
+Brent Bookwalter	65	0	United States	2011
+Jure Kocjan	66	0	Slovenia	2011
+Ignatas Konovalovas	67	0	Lithuania	2011
+Peter Velits	68	0	Slovakia	2011
+Martin Velits	69	0	Slovakia	2011
+Sylvain Chavanel	70	0	France	2011
+Aidis Kruopis	71	0	Lithuania	2011
+Chris Sutton	72	0	Australia	2011
+Gregory Rast	73	0	Switzerland	2011
+Baden Cooke	74	0	Australia	2011
+Danilo Hondo	75	0	Germany	2011
+Robert Kiserlovski	76	0	Croatia	2011
+Francesco Gavazzi	77	0	Italy	2011
+Carlos Barredo	78	0	Spain	2011
+Simon Gerrans	79	0	Australia	2011
+Elia Viviani	80	0	Italy	2011
+Geraint Thomas	81	0	Great Britain	2011
+Daniel Oss	82	0	Italy	2011
+Juan Manuel Garate	83	16	Spain	2011
+Kurt-Asle Arvesen	84	16	Norway	2011
+Vladimir Isaychev	85	16	Russia	2011
+Michael Albasini	86	19	Switzerland	2011
+Martin Kohler	87	19	Switzerland	2011
+Wout Poels	88	19	Netherlands	2011
+Steven Kruijswijk	89	19	Netherlands	2011
+Dan Martin	90	19	Ireland	2011
+Stuart O'Grady	91	19	Australia	2011
+Imanol Erviti	92	19	Spain	2011
+Kevin De Weert	93	19	Belgium	2011
+Ben King	94	19	United States	2011
+Juan Antonio Flecha	95	19	Spain	2011
+Marcel Sieberg	96	26	Germany	2011
+Pablo Lastras	97	29	Spain	2011
+Thomas Voeckler	98	31	France	2011
+Ian Stannard	99	34	Great Britain	2011
+Mathew Hayman	100	34	Australia	2011
+Michael Rogers	101	38	Australia	2011
+Simon Clarke	102	38	Australia	2011
+Manuel Quinziato	103	42	Italy	2011
+Matteo Tosatto	104	49	Italy	2011
+Kristijan Koren	105	49	Slovenia	2011
+Luca Paolini	106	52	Italy	2011
+Giovanni Visconti	107	62	Italy	2011
+Bradley Wiggins	108	194	Great Britain	2011
+Olivier Kaisen	109	240	Belgium	2011
+Mart Ojavee	110	240	Estonia	2011
+John Degenkolb	111	240	Germany	2011
+Maxim Iglinskiy	112	240	Kazakhstan	2011
+Anthony Roux	113	394	France	2011
+David Millar	114	502	Great Britain	2011
+Jeremy Hunt	115	502	Great Britain	2011
+Miguel Armando Ubeto	116	534	Venezuela	2011
+Jonas Ljungblad	117	534	Sweden	2011
+Gregory Henderson	118	534	New Zealand	2011
+Rafael Andriato	119	534	Brazil	2011
+Fumiyuki Beppu	120	534	Japan	2011
+Jack Bauer	121	534	New Zealand	2011
+Nelson Oliveira	122	534	Portugal	2011
+Mehdi Sohrabi	123	534	Iran	2011
+Jose Rodolfo Serpa	124	534	Colombia	2011
+Ioannis Tamouridis	125	534	Greece	2011
+Hossein Askari	126	534	Iran	2011
+Carlos Jose Ochoa	127	534	Venezuela	2011
+Miguel Angel Rubiano	128	534	Colombia	2011
+NULL	129	534	NULL	2011
+Tomas Aurelio Gil Martinez	130	534	Venezuela	2011
+Christian Knees	131	534	Germany	2011
+Lucas Sebastian Haedo	132	534	Argentina	2011
+Yukiya Arashiro	133	534	Japan	2011
+Andrei Nechita	134	534	Romania	2011
+Rigoberto Uran	135	534	Colombia	2011
+Maximiliano Richeze	136	534	Argentina	2011
+Hrvoje Miholjevic	137	534	Croatia	2011
+Winner Anacona	138	534	Colombia	2011
+Svein Tuft	139	534	Canada	2011
+Radoslav Rogina	140	534	Croatia	2011
+Ivan Mauricio Casas	141	534	Colombia	2011
+Kristijan ?urasek	142	534	Croatia	2011
+Daniel Teklehaimanot	143	534	Eritrea	2011
+Yuri Metlushenko	144	534	Ukraine	2011
+Oleksandr Sheydyk	145	534	Ukraine	2011
+Carlos Ivan Oyarzun	146	534	Chile	2011
+Anatoliy Pakhtusov	147	534	Ukraine	2011
+Gonzalo Garrido	148	534	Chile	2011
+Gregolry Panizo	149	534	Brazil	2011
+Laurent Didier	150	534	Luxembourg	2011
+Micha? Go?as	151	534	Poland	2011
+Julian Dean	152	534	New Zealand	2011
+Oleksandr Kvachuk	153	534	Ukraine	2011
+Ben Gastauer	154	534	Luxembourg	2011
+Maciej Bodnar	155	534	Poland	2011
+Bartosz Huzarski	156	534	Poland	2011
+Matthew Busche	157	534	United States	2011
+Bernhard Eisel	158	534	Austria	2011
+Mikhail Ignatiev	159	534	Russia	2011
+Alexander Porsev	160	534	Russia	2011
+Timofey Kritskiy	161	534	Russia	2011
+Yevgeniy Nepomnyachshiy	162	534	Kazakhstan	2011
+Sergey Renev	163	534	Kazakhstan	2011
+Luis Leon Sanchez	164	534	Spain	2011
+Niki Terpstra	165	534	Netherlands	2011
+Tony Martin	166	534	Germany	2011
+John Murphy	167	534	United States	2011
+Kanstantsin Siutsou	168	534	Belarus	2011
+Dmitriy Fofonov	169	534	Kazakhstan	2011
+Thor Hushovd	170	534	Norway	2011
+Andreas Klier	171	534	Germany	2011
+Samuel Dumoulin	172	534	France	2011
+Jeff Louder	173	534	United States	2011
+Timothy Duggan	174	534	United States	2011
+Greg Van Avermaet	175	550	Belgium	2011
+Marcel Kittel	176	556	Germany	2011
+Johan Vansummeren	177	556	Belgium	2011
+Leonardo Fabio Duque	DNF	0	France	2011
+Michael Barry	DNF	0	Canada	2011
+Bert Grabsch	DNF	0	Germany	2011
+Ismail Ayoune	DNF	0	Morocco	2011
+Mohammed Said El Ammoury	DNF	0	Morocco	2011
+Adnane Aarbia	DNF	0	Morocco	2011
+Abdelati Saadoune	DNF	0	Morocco	2011
+Adil Jelloul	DNF	0	Morocco	2011
+Mouhssine Lahsaini	DNF	0	Morocco	2011
+Chris Froome	DNF	0	Great Britain	2011
+Steve Cummings	DNF	0	Great Britain	2011
+Andrew Talansky	DNF	0	United States	2011
+Frekalsi Debesay	DNF	0	Eritrea	2011
+Semere Mengis	DNF	0	Eritrea	2011
+Amir Zargari	DNF	0	Iran	2011
+Andrey Sartassov	DNF	0	Chile	2011
+Artur Alberto Garcia	DNF	0	Venezuela	2011
+Honorio Rafael Machado	DNF	0	Venezuela	2011
+Otavio Bulgarelli	DNF	0	Brazil	2011
+Tanel Kangert	DNF	0	Estonia	2011
+Petr Bencik	DNF	0	Czech Republic	2011
+Jan Barta	DNF	0	Czech Republic	2011
+Tomislav Danculovic	DNF	0	Croatia	2011
+Ivan Stevic	DNF	0	Serbia	2011
+Mert Mutlu	DNF	0	Turkey	2011
+Vicente Reynes	DNF	0	Spain	2011
+Blel Kadri	DNF	0	France	2011
+Jempy Drucker	DNF	0	Luxembourg	2011
+Christian Poos	DNF	0	Luxembourg	2011
+Frank Schleck	DNF	0	Luxembourg	2011
+Krisztian Lovassy	DNF	0	Hungary	2011
+Stefan Denifl	DNF	0	Austria	2011
+Roman Kreuziger	DNS	0	Czech Republic	2011

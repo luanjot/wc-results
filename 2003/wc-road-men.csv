@@ -1,0 +1,181 @@
+name	result	time_in_seconds	nationality	year
+Igor Astarloa	1	23419	Spain	2003
+Alejandro Valverde	2	5	Spain	2003
+Peter Van Petegem	3	5	Belgium	2003
+Paolo Bettini	4	5	Italy	2003
+Michael Boogerd	5	6	Netherlands	2003
+Bo Hamburger	6	6	Denmark	2003
+Michael Barry	7	6	Canada	2003
+Luca Paolini	8	12	Italy	2003
+Oscar Freire	9	12	Spain	2003
+Janek Tombak	10	12	Estonia	2003
+Erik Zabel	11	12	Germany	2003
+Allan Davis	12	12	Australia	2003
+Martin Elmiger	13	12	Switzerland	2003
+Dmitri Konychev	14	12	Russia	2003
+Frank Høj	15	12	Denmark	2003
+Patrik Sinkewitz	16	12	Germany	2003
+Tom Boonen	17	12	Belgium	2003
+Fred Rodriguez	18	12	United States	2003
+Tadej Valjavec	19	12	Slovenia	2003
+Giovanni Lombardi	20	12	Italy	2003
+Beat Zberg	21	12	Switzerland	2003
+Alexandre Usov	22	12	Belarus	2003
+Bernhard Eisel	23	12	Austria	2003
+Laurent Brochard	24	12	France	2003
+Maarten den Bakker	25	12	Netherlands	2003
+Gerben Lowik	26	12	Netherlands	2003
+Cedric Vasseur	27	12	France	2003
+Gerrit Glomser	28	12	Austria	2003
+Kim Kirchen	29	12	Luxembourg	2003
+Guido Trenti	30	12	United States	2003
+Maximilian Sciandri	31	12	Great Britain	2003
+Bekim leif Christensen	32	12	Denmark	2003
+Mathew Hayman	33	12	Australia	2003
+Peter Luttenberger	34	12	Austria	2003
+Gorazd Stangelj	35	12	Slovenia	2003
+Alexandre Botcharov	36	12	Russia	2003
+George Hincapie	37	12	United States	2003
+Marlon Alirio Perez	38	12	Colombia	2003
+Laszlo Bodrogi	39	12	France	2003
+Serhiy Honchar	40	12	Ukraine	2003
+Viatcheslav Ekimov	41	12	Russia	2003
+Kurt-Asle Arvesen	42	12	Norway	2003
+Daniel Schnider	43	12	Switzerland	2003
+NULL	44	12	NULL	2003
+NULL	45	12	NULL	2003
+Manuel Beltran	46	12	Spain	2003
+Marc Wauters	47	12	Belgium	2003
+Andrey Mizurov	48	12	Kazakhstan	2003
+Alexandr Kolobnev	49	19	Russia	2003
+Mario Aerts	50	21	Belgium	2003
+Patrice Halgand	51	21	France	2003
+Cezary Zamana	52	23	Poland	2003
+Denis Menchov	53	23	Russia	2003
+Christophe Brandt	54	26	Belgium	2003
+Felix Rafael Cardenas	55	26	Colombia	2003
+Francesco Casagrande	56	26	Italy	2003
+Sylwester Szmyd	57	26	Poland	2003
+Rolf Aldag	58	26	Germany	2003
+Volodymyr Gustov	59	26	Ukraine	2003
+Floyd Landis	60	26	United States	2003
+Nico Sijmens	61	26	Belgium	2003
+Francisco Mancebo	62	26	Spain	2003
+Marcos Antonio Serrano	63	26	Spain	2003
+Dave Bruylandts	64	26	Belgium	2003
+Daniele Nardello	65	26	Italy	2003
+Danilo Di Luca	66	26	Italy	2003
+Mark Scanlon	67	42	Ireland	2003
+Dmitriy Fofonov	68	42	Kazakhstan	2003
+Evgeni Petrov	69	42	Russia	2003
+Oscar Camenzind	70	65	Switzerland	2003
+Marcel Strauss	71	71	Switzerland	2003
+Axel Merckx	72	71	Belgium	2003
+NULL	73	90	NULL	2003
+Nuno Ribeiro	74	115	Portugal	2003
+Fabian Jeker	75	120	Switzerland	2003
+Chris Horner	76	131	United States	2003
+Kyrylo Pospyeyev	77	131	Ukraine	2003
+Michael Skelde	78	131	Denmark	2003
+Michael Rogers	79	221	Australia	2003
+Niki Aebersold	80	230	Switzerland	2003
+Stephan Schreck	81	273	Germany	2003
+Andreas Klier	82	273	Germany	2003
+Matthias Kessler	83	273	Germany	2003
+Sylvain Chavanel	84	273	France	2003
+Roger Hammond	85	292	Great Britain	2003
+David Millar	86	292	Great Britain	2003
+Fabian Wegmann	87	292	Germany	2003
+Karsten Kroon	88	292	Netherlands	2003
+Luis Perez	89	308	Spain	2003
+Franck Renier	90	308	France	2003
+Bram Schmitz	91	308	Netherlands	2003
+Levi Leipheimer	92	339	United States	2003
+Jurgen Van Goolen	93	339	Belgium	2003
+Radoslav Rogina	94	339	Croatia	2003
+Mark Walters	95	489	Canada	2003
+Andrea Noe	96	489	Italy	2003
+Vladimir Karpets	97	558	Russia	2003
+Dawid Krupa	98	558	Poland	2003
+Pedro Goncalves	99	595	Portugal	2003
+Benoit Joachim	100	596	Luxembourg	2003
+Gerhard Trampusch	101	596	Austria	2003
+Michal Hrazdira	102	743	Czech Republic	2003
+Martin Derganc	103	743	Slovenia	2003
+Dominique Perras	104	743	Canada	2003
+Eric Wohlberg	105	743	Canada	2003
+Bram de Groot	106	743	Netherlands	2003
+Frederic Bessy	107	743	France	2003
+Roger Beuchat	108	743	Switzerland	2003
+David Moncoutie	109	743	France	2003
+Andy Flickinger	110	743	France	2003
+Nicolas Fritsch	111	743	France	2003
+David George	112	743	South Africa	2003
+Scott Davis	DNF	0	Australia	2003
+Benjamin Day	DNF	0	Australia	2003
+Matthew White	DNF	0	Australia	2003
+Scott Sunderland	DNF	0	Australia	2003
+Victor Hugo Pena	DNF	0	Colombia	2003
+Israel Antonio Ochoa	DNF	0	Colombia	2003
+Cesar Augusto Grajales	DNF	0	Colombia	2003
+Bjørnar Vestøl	DNF	0	Norway	2003
+Torsten Hiekmann	DNF	0	Germany	2003
+Christian Werner	DNF	0	Germany	2003
+Ronny Scholz	DNF	0	Germany	2003
+Bert Grabsch	DNF	0	Germany	2003
+Sebastian Lang	DNF	0	Germany	2003
+Thomas Gronqvist	DNF	0	Sweden	2003
+Gustav Erik Larsson	DNF	0	Sweden	2003
+Charles Wegelius	DNF	0	Great Britain	2003
+Tim Johnson	DNF	0	United States	2003
+John Lieswyn	DNF	0	United States	2003
+Bobby Julich	DNF	0	United States	2003
+Mark McCormack	DNF	0	United States	2003
+David Clinger	DNF	0	United States	2003
+Christopher Baldwin	DNF	0	United States	2003
+Volodymyr Bileka	DNF	0	Ukraine	2003
+Ruslan Gryschenko	DNF	0	Ukraine	2003
+Yaroslav Popovych	DNF	0	Ukraine	2003
+Yuriy Krivtsov	DNF	0	Ukraine	2003
+Vladimir Duma	DNF	0	Ukraine	2003
+Sven Montgomery	DNF	0	Switzerland	2003
+Steve Zampieri	DNF	0	Switzerland	2003
+Fabian Cancellara	DNF	0	Switzerland	2003
+Alexandre Moos	DNF	0	Switzerland	2003
+Romans Vainsteins	DNF	0	Latvia	2003
+Raivis Belohvosciks	DNF	0	Latvia	2003
+Glen Mitchell	DNF	0	New Zealand	2003
+Shinri Suzuki	DNF	0	Japan	2003
+Marek Rutkiewicz	DNF	0	Poland	2003
+Jure Golcer	DNF	0	Slovenia	2003
+Erki Putsep	DNF	0	Estonia	2003
+Tomas Vaitkus	DNF	0	Lithuania	2003
+Lubor Tesar	DNF	0	Czech Republic	2003
+Milan Kadlec	DNF	0	Czech Republic	2003
+Ondrej Sosenka	DNF	0	Czech Republic	2003
+Sergio Miguel Paulinho	DNF	0	Portugal	2003
+Ruslan Ivanov	DNF	0	Moldova	2003
+Igor Pugaci	DNF	0	Moldova	2003
+Aitor Osa	DNF	0	Spain	2003
+Oscar Sevilla	DNF	0	Spain	2003
+Gorka Gonzalez	DNF	0	Spain	2003
+Inigo Cuesta	DNF	0	Spain	2003
+Igor Gonzalez de Galdeano	DNF	0	Spain	2003
+Ivan Basso	DNF	0	Italy	2003
+Dario Frigo	DNF	0	Italy	2003
+Fabio Sacchi	DNF	0	Italy	2003
+Mario Scirea	DNF	0	Italy	2003
+Cristian Moreni	DNF	0	Italy	2003
+Samuel Dumoulin	DNF	0	France	2003
+Christophe Rinero	DNF	0	France	2003
+Maryan Hary	DNF	0	France	2003
+Matthe Pronk	DNF	0	Netherlands	2003
+Steven de Jongh	DNF	0	Netherlands	2003
+Rik Reinerink	DNF	0	Netherlands	2003
+Koos Moerenhout	DNF	0	Netherlands	2003
+Erik Dekker	DNF	0	Netherlands	2003
+Jan Boven	DNF	0	Netherlands	2003
+Wim Vansevenant	DNF	0	Belgium	2003
+Philippe Gilbert	DNF	0	Belgium	2003
+Balazs Rohtmer	DNF	0	Hungary	2003
+Jochen Summer	DNF	0	Austria	2003

@@ -1,0 +1,199 @@
+name	result	time_in_seconds	nationality	year
+Paolo Bettini	1	24283	Italy	2007
+Alexandr Kolobnev	2	0	Russia	2007
+Stefan Schumacher	3	0	Germany	2007
+Frank Schleck	4	0	Luxembourg	2007
+Cadel Evans	5	0	Australia	2007
+Davide Rebellin	6	6	Italy	2007
+Samuel Sanchez	7	8	Spain	2007
+Philippe Gilbert	8	8	Belgium	2007
+Fabian Wegmann	9	8	Germany	2007
+Martin Elmiger	10	8	Switzerland	2007
+Thomas Dekker	11	8	Netherlands	2007
+Michael Boogerd	12	14	Netherlands	2007
+Bjorn Leukemans	13	15	Belgium	2007
+Oscar Freire	14	49	Spain	2007
+Aleksandr Kuschynski	15	49	Belarus	2007
+Alexandre Usov	16	49	Belarus	2007
+Beat Zberg	17	49	Switzerland	2007
+Erik Zabel	18	49	Germany	2007
+Thor Hushovd	19	49	Norway	2007
+Radoslav Rogina	20	49	Croatia	2007
+Murilo Antonio Fischer	21	49	Brazil	2007
+Matej Mugerli	22	49	Slovenia	2007
+George Hincapie	23	49	United States	2007
+Marcus Ljungqvist	24	49	Sweden	2007
+NULL	25	49	NULL	2007
+Jurgen Van Goolen	26	49	Belgium	2007
+Leonardo Fabio Duque	27	49	France	2007
+Rene Mandri	28	49	Estonia	2007
+Gustav Erik Larsson	29	49	Sweden	2007
+Pierrick Fedrigo	30	49	France	2007
+Thomas Lofkvist	31	49	Sweden	2007
+Alexander Efimkin	32	49	Russia	2007
+Tomasz Marczynski	33	49	Poland	2007
+Jan Valach	34	49	Slovakia	2007
+Sebastian Langeveld	35	49	Netherlands	2007
+Christian Vande Velde	36	49	United States	2007
+Nuno Ribeiro	37	49	Portugal	2007
+Christian Pfannberger	38	49	Austria	2007
+Unai Etxebarria	39	49	Venezuela	2007
+David George	40	49	South Africa	2007
+Ludovic Turpin	41	49	France	2007
+Kurt-Asle Arvesen	42	49	Norway	2007
+Vladimir Efimkin	43	49	Russia	2007
+Sergey Lagutin	44	49	Russia	2007
+Mario Aerts	45	49	Belgium	2007
+Vladimir Karpets	46	49	Russia	2007
+Denis Menchov	47	49	Russia	2007
+Przemys?aw Niemiec	48	49	Poland	2007
+Manuel Beltran	49	49	Spain	2007
+Damiano Cunego	50	57	Italy	2007
+Filippo Pozzato	51	57	Italy	2007
+Alessandro Ballan	52	57	Italy	2007
+Allan Davis	53	65	Australia	2007
+David Millar	54	65	Great Britain	2007
+Matthew Lloyd	55	70	Australia	2007
+Karsten Kroon	56	84	Netherlands	2007
+Alejandro Valverde	57	167	Spain	2007
+Matija Kvasina	58	190	Croatia	2007
+Kristjan Fajt	59	218	Slovenia	2007
+Gorazd Stangelj	60	221	Slovenia	2007
+Kanstantsin Siutsou	61	317	Belarus	2007
+Alessandro Bertolini	62	361	Italy	2007
+Greg Van Avermaet	63	394	Belgium	2007
+Maxime Monfort	64	412	Belgium	2007
+Joaquim Rodriguez	65	472	Spain	2007
+Simon Gerrans	66	489	Australia	2007
+Sylvain Chavanel	67	489	France	2007
+Thomas Voeckler	68	951	France	2007
+Erki Putsep	69	951	Estonia	2007
+Laszlo Bodrogi	70	1030	France	2007
+Vladimir Tuychiev	71	1317	Uzbekistan	2007
+Hossein Askari	72	1317	Iran	2007
+Fuyu Li	DNF	0	China	2007
+Scott Davis	DNF	0	Australia	2007
+Trent Lowe	DNF	0	Australia	2007
+Mathew Hayman	DNF	0	Australia	2007
+Michael Rogers	DNF	0	Australia	2007
+William Walker	DNF	0	Australia	2007
+Marlon Alirio Perez	DNF	0	Colombia	2007
+Luis Felipe Laverde	DNF	0	Colombia	2007
+Mauricio Alberto Ardila	DNF	0	Colombia	2007
+Jose Rodolfo Serpa	DNF	0	Colombia	2007
+Alex Cano	DNF	0	Colombia	2007
+Mads Kaggestad	DNF	0	Norway	2007
+Matti Breschel	DNF	0	Denmark	2007
+Lars Ytting Bak	DNF	0	Denmark	2007
+Cameron Evans	DNF	0	Canada	2007
+Svein Tuft	DNF	0	Canada	2007
+Dominique Rollin	DNF	0	Canada	2007
+Ronny Scholz	DNF	0	Germany	2007
+David Kopp	DNF	0	Germany	2007
+Christian Knees	DNF	0	Germany	2007
+Marcus Burghardt	DNF	0	Germany	2007
+Jens Voigt	DNF	0	Germany	2007
+Gerald Ciolek	DNF	0	Germany	2007
+Juan Pablo Dotti	DNF	0	Argentina	2007
+Maximiliano Richeze	DNF	0	Argentina	2007
+Martin Gerardo Garrido	DNF	0	Argentina	2007
+Juan Jose Haedo	DNF	0	Argentina	2007
+Matias Medici	DNF	0	Argentina	2007
+Luis Alejandro Moyano	DNF	0	Argentina	2007
+Serguei Yakovlev	DNF	0	Kazakhstan	2007
+Dmitriy Fofonov	DNF	0	Kazakhstan	2007
+Assan Bazayev	DNF	0	Kazakhstan	2007
+Roger Hammond	DNF	0	Great Britain	2007
+Mark Cavendish	DNF	0	Great Britain	2007
+John Devine	DNF	0	United States	2007
+David Zabriskie	DNF	0	United States	2007
+Jason McCartney	DNF	0	United States	2007
+Tyler Farrar	DNF	0	United States	2007
+Bobby Julich	DNF	0	United States	2007
+Ruslan Pidgornyy	DNF	0	Ukraine	2007
+Andrey Grivko	DNF	0	Ukraine	2007
+Vladimir Zagorodnii	DNF	0	Russia	2007
+Volodymyr Bileka	DNF	0	Ukraine	2007
+NULL	DNF	0	NULL	2007
+Mikhaylo Khalilov	DNF	0	Ukraine	2007
+Fabian Cancellara	DNF	0	Switzerland	2007
+Darren Lill	DNF	0	South Africa	2007
+Robert Hunter	DNF	0	South Africa	2007
+Daryl Impey	DNF	0	South Africa	2007
+James Lewis Perry	DNF	0	South Africa	2007
+Aleksejs Saramotins	DNF	0	Latvia	2007
+Seyed Mostafa Seyed Rezaei Khormizi	DNF	0	Iran	2007
+Mahdi Fahridi Kovij	DNF	0	Iran	2007
+Mehdi Sohrabi	DNF	0	Iran	2007
+Glen Alan Chadwick	DNF	0	New Zealand	2007
+Hayden Roulston	DNF	0	New Zealand	2007
+Jeremy Vennell	DNF	0	New Zealand	2007
+NULL	DNF	0	NULL	2007
+Andris Jose Hernandez	DNF	0	Venezuela	2007
+Fumiyuki Beppu	DNF	0	Japan	2007
+Yukiya Arashiro	DNF	0	Japan	2007
+Takashi Miyazawa	DNF	0	Japan	2007
+Luciano Andre Pagliarini	DNF	0	Brazil	2007
+Renato Seabra	DNF	0	Brazil	2007
+Piotr Zielinski	DNF	0	Poland	2007
+Jacek Morajko	DNF	0	Poland	2007
+Krzysztof Szczawinski	DNF	0	Poland	2007
+Marcin Sapa	DNF	0	Poland	2007
+Jure Golcer	DNF	0	Slovenia	2007
+Borut Bozic	DNF	0	Slovenia	2007
+Matej Stare	DNF	0	Slovenia	2007
+Dainius Kairelis	DNF	0	Lithuania	2007
+Romas Sinicinas	DNF	0	Lithuania	2007
+Roman Kreuziger	DNF	0	Czech Republic	2007
+Martin Mares	DNF	0	Czech Republic	2007
+Petr Bencik	DNF	0	Czech Republic	2007
+Danail Andonov Petrov	DNF	0	Bulgaria	2007
+Kristijan ?urasek	DNF	0	Croatia	2007
+Robert Kiserlovski	DNF	0	Croatia	2007
+Tomislav Danculovic	DNF	0	Croatia	2007
+Hrvoje Miholjevic	DNF	0	Croatia	2007
+Dragan Spasic	DNF	0	Serbia	2007
+Nebojsa Jovanovic	DNF	0	Serbia	2007
+Zolt Der	DNF	0	Hungary	2007
+Ricardo Manuel Rodrigues Martins	DNF	0	Portugal	2007
+Hugo Manuel Sabido	DNF	0	Portugal	2007
+Hernani Broco	DNF	0	Portugal	2007
+NULL	DNF	0	NULL	2007
+Muradjan Halmuratov	DNF	0	Uzbekistan	2007
+Philip Deignan	DNF	0	Ireland	2007
+Carlos Sastre	DNF	0	Spain	2007
+Juan Antonio Flecha	DNF	0	Spain	2007
+Xavier Florencio	DNF	0	Spain	2007
+Carlos Barredo	DNF	0	Spain	2007
+Andrea Tonti	DNF	0	Italy	2007
+Matteo Tosatto	DNF	0	Italy	2007
+Amael Moinard	DNF	0	France	2007
+Stephane Auge	DNF	0	France	2007
+Romain Feillu	DNF	0	France	2007
+Stephane Goubert	DNF	0	France	2007
+Sandy Casar	DNF	0	France	2007
+Vladimir Gusev	DNF	0	Russia	2007
+Vladislav Borisov	DNF	0	Russia	2007
+Sergey Kolesnikov	DNF	0	Russia	2007
+Evgeni Petrov	DNF	0	Russia	2007
+Bram Tankink	DNF	0	Netherlands	2007
+Laurens ten Dam	DNF	0	Netherlands	2007
+Robert Gesink	DNF	0	Netherlands	2007
+Maarten den Bakker	DNF	0	Netherlands	2007
+Koos Moerenhout	DNF	0	Netherlands	2007
+Stijn Devolder	DNF	0	Belgium	2007
+Johan Vansummeren	DNF	0	Belgium	2007
+Frederik Willems	DNF	0	Belgium	2007
+Andy Schleck	DNF	0	Luxembourg	2007
+Christian Poos	DNF	0	Luxembourg	2007
+Kim Kirchen	DNF	0	Luxembourg	2007
+Laurent Didier	DNF	0	Luxembourg	2007
+Roman Bronis	DNF	0	Slovakia	2007
+Matej Jurco	DNF	0	Slovakia	2007
+Martin Riska	DNF	0	Slovakia	2007
+Jan Sipeky	DNF	0	Slovakia	2007
+Maros Kovac	DNF	0	Slovakia	2007
+Bernhard Kohl	DNF	0	Austria	2007
+Gerrit Glomser	DNF	0	Austria	2007
+Jose Carlos Silva Rodrigues	DNS	0	Portugal	2007
+Marzio Bruseghin	DSQ	0	Italy	2007

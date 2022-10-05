@@ -1,0 +1,179 @@
+name	result	time_in_seconds	nationality	year
+Thor Hushovd	1	22909	Norway	2010
+Matti Breschel	2	0	Denmark	2010
+Allan Davis	3	0	Australia	2010
+Filippo Pozzato	4	0	Italy	2010
+Greg Van Avermaet	5	0	Belgium	2010
+Oscar Freire	6	0	Spain	2010
+Alexandr Kolobnev	7	0	Russia	2010
+Assan Bazayev	8	0	Kazakhstan	2010
+Yukiya Arashiro	9	0	Japan	2010
+Romain Feillu	10	0	France	2010
+Grega Bole	11	0	Slovenia	2010
+Dmitriy Fofonov	12	0	Kazakhstan	2010
+Koos Moerenhout	13	0	Netherlands	2010
+Fabian Wegmann	14	0	Germany	2010
+Andre Cardoso	15	0	Portugal	2010
+Frank Schleck	16	0	Luxembourg	2010
+Cadel Evans	17	0	Australia	2010
+Philippe Gilbert	18	0	Belgium	2010
+Niki Terpstra	19	7	Netherlands	2010
+Bjorn Leukemans	20	7	Belgium	2010
+Vladimir Gusev	21	13	Russia	2010
+Janez Brajkovic	22	13	Slovenia	2010
+NULL	23	13	NULL	2010
+Anders Lund	24	15	Denmark	2010
+Paul Martens	25	15	Germany	2010
+Yoann Offredo	26	127	France	2010
+Jonas Ljungblad	27	129	Sweden	2010
+Matija Kvasina	28	131	Croatia	2010
+Christian Knees	29	131	Germany	2010
+Fumiyuki Beppu	30	131	Japan	2010
+Simon Spilak	31	133	Slovenia	2010
+Cyril Gautier	32	133	France	2010
+Kanstantsin Siutsou	33	133	Belarus	2010
+Jose Rodolfo Serpa	34	133	Colombia	2010
+Juan Jose Haedo	35	133	Argentina	2010
+Giovanni Visconti	36	133	Italy	2010
+Marzio Bruseghin	37	311	Italy	2010
+Luca Paolini	38	311	Italy	2010
+Haimar Zubeldia	39	311	Spain	2010
+Vincenzo Nibali	40	430	Italy	2010
+Lars Boom	41	442	Netherlands	2010
+Wout Poels	42	442	Netherlands	2010
+Andre Greipel	43	442	Germany	2010
+Gorazd Stangelj	44	442	Slovenia	2010
+Stuart O'Grady	45	442	Australia	2010
+Radoslav Rogina	46	442	Croatia	2010
+Karsten Kroon	47	442	Netherlands	2010
+Jure Kocjan	48	442	Slovenia	2010
+Pavel Brutt	49	442	Russia	2010
+Fabian Cancellara	50	442	Switzerland	2010
+Yauheni Hutarovich	51	833	Belarus	2010
+Denys Kostyuk	52	833	Ukraine	2010
+Martin Velits	53	833	Slovakia	2010
+Petr Bencik	54	833	Czech Republic	2010
+Martin Elmiger	55	833	Switzerland	2010
+Hernani Broco	56	833	Portugal	2010
+Egor Silin	57	833	Russia	2010
+Marcel Sieberg	58	833	Germany	2010
+Steve Morabito	59	833	Switzerland	2010
+Bartosz Huzarski	60	833	Poland	2010
+Eduard Vorganov	61	833	Russia	2010
+Koen de Kort	62	833	Netherlands	2010
+Sylvain Chavanel	63	833	France	2010
+Micha? Go?as	64	833	Poland	2010
+Bernhard Eisel	65	833	Austria	2010
+Peter Wrolich	66	833	Austria	2010
+Oleksandr Sheydyk	67	833	Ukraine	2010
+David McCann	68	833	Ireland	2010
+Alexander Kristoff	69	833	Norway	2010
+Sebastien Hinault	70	833	France	2010
+Bert Grabsch	71	833	Germany	2010
+Yukihiro Doi	72	833	Japan	2010
+Edward King	73	833	United States	2010
+Peter Velits	74	833	Slovakia	2010
+Gustav Erik Larsson	75	833	Sweden	2010
+Lars Ytting Bak	76	833	Denmark	2010
+Julian Dean	77	833	New Zealand	2010
+Przemys?aw Niemiec	78	833	Poland	2010
+Christian Vande Velde	79	833	United States	2010
+Danny Pate	80	833	United States	2010
+Tyler Farrar	81	833	United States	2010
+Danilo Hondo	82	833	Germany	2010
+Anthony Geslin	83	833	France	2010
+Tanel Kangert	84	833	Estonia	2010
+Svein Tuft	85	833	Canada	2010
+William Bonnet	86	833	France	2010
+Leopold Konig	87	833	Czech Republic	2010
+Alexandr Dyachenko	88	833	Kazakhstan	2010
+Ignatas Konovalovas	89	833	Lithuania	2010
+Jose Mendes	90	833	Portugal	2010
+Steven Kruijswijk	91	833	Netherlands	2010
+Sebastian Langeveld	92	833	Netherlands	2010
+Oleksandr Kvachuk	93	833	Ukraine	2010
+Mathew Hayman	94	833	Australia	2010
+Wesley Sulzberger	95	833	Australia	2010
+Michael Rogers	96	833	Australia	2010
+Nicolas Roche	97	833	Ireland	2010
+Laurent Didier	98	1311	Luxembourg	2010
+Zolt Der	99	1370	Hungary	2010
+Matthew Goss	DNF	0	Australia	2010
+Baden Cooke	DNF	0	Australia	2010
+Simon Gerrans	DNF	0	Australia	2010
+Diego Alejandro Tamayo	DNF	0	Colombia	2010
+Edvald Boasson Hagen	DNF	0	Norway	2010
+Alex Rasmussen	DNF	0	Denmark	2010
+Michael Mørkøv	DNF	0	Denmark	2010
+Christian Meier	DNF	0	Canada	2010
+Dominique Rollin	DNF	0	Canada	2010
+Dominic Klemme	DNF	0	Germany	2010
+Tony Martin	DNF	0	Germany	2010
+Abdelati Saadoune	DNF	0	Morocco	2010
+Adil Jelloul	DNF	0	Morocco	2010
+Tarik Chaoufi	DNF	0	Morocco	2010
+Mohammed Said El Ammoury	DNF	0	Morocco	2010
+Mouhssine Lahsaini	DNF	0	Morocco	2010
+Adnane Aarbia	DNF	0	Morocco	2010
+Matias Medici	DNF	0	Argentina	2010
+Lucas Sebastian Haedo	DNF	0	Argentina	2010
+Sergey Renev	DNF	0	Kazakhstan	2010
+Valentin Iglinskiy	DNF	0	Kazakhstan	2010
+Jeremy Hunt	DNF	0	Great Britain	2010
+David Millar	DNF	0	Great Britain	2010
+Mark Cavendish	DNF	0	Great Britain	2010
+David Zabriskie	DNF	0	United States	2010
+Craig Lewis	DNF	0	United States	2010
+Jason McCartney	DNF	0	United States	2010
+Tejay van Garderen	DNF	0	United States	2010
+Tom Peterson	DNF	0	United States	2010
+Yuri Metlushenko	DNF	0	Ukraine	2010
+Andrey Grivko	DNF	0	Ukraine	2010
+Martin Kohler	DNF	0	Switzerland	2010
+Gregory Rast	DNF	0	Switzerland	2010
+Danilo Wyss	DNF	0	Switzerland	2010
+Michael Albasini	DNF	0	Switzerland	2010
+Jay Robert Thomson	DNF	0	South Africa	2010
+Daryl Impey	DNF	0	South Africa	2010
+Darren Lill	DNF	0	South Africa	2010
+Carlos Ivan Oyarzun	DNF	0	Chile	2010
+Hayden Roulston	DNF	0	New Zealand	2010
+Gregory Henderson	DNF	0	New Zealand	2010
+Carlos Jose Ochoa	DNF	0	Venezuela	2010
+Jackson Rodriguez	DNF	0	Venezuela	2010
+Murilo Antonio Fischer	DNF	0	Brazil	2010
+Jaros?aw Marycz	DNF	0	Poland	2010
+Marcin Sapa	DNF	0	Poland	2010
+Maciej Bodnar	DNF	0	Poland	2010
+Borut Bozic	DNF	0	Slovenia	2010
+Kristijan Koren	DNF	0	Slovenia	2010
+Kalle Kriit	DNF	0	Estonia	2010
+Hrvoje Miholjevic	DNF	0	Croatia	2010
+Esad Hasanovic	DNF	0	Serbia	2010
+Samuel Jose Caldeira	DNF	0	Portugal	2010
+Manuel Antonio Leal Cardoso	DNF	0	Portugal	2010
+Matt Brammeier	DNF	0	Ireland	2010
+Imanol Erviti	DNF	0	Spain	2010
+Samuel Sanchez	DNF	0	Spain	2010
+Francisco Jose Ventoso	DNF	0	Spain	2010
+Carlos Barredo	DNF	0	Spain	2010
+Ruben Plaza	DNF	0	Spain	2010
+Luis Leon Sanchez	DNF	0	Spain	2010
+Juan Manuel Garate	DNF	0	Spain	2010
+Francesco Gavazzi	DNF	0	Italy	2010
+Matteo Tosatto	DNF	0	Italy	2010
+Andrea Tonti	DNF	0	Italy	2010
+Daniel Oss	DNF	0	Italy	2010
+Artem Ovechkin	DNF	0	Russia	2010
+Yuri Trofimov	DNF	0	Russia	2010
+Alexander Porsev	DNF	0	Russia	2010
+Vladimir Karpets	DNF	0	Russia	2010
+Jos van Emden	DNF	0	Netherlands	2010
+Jan Bakelants	DNF	0	Belgium	2010
+Kevin De Weert	DNF	0	Belgium	2010
+Leif Hoste	DNF	0	Belgium	2010
+Jurgen Roelandts	DNF	0	Belgium	2010
+Frederik Willems	DNF	0	Belgium	2010
+Mario Aerts	DNF	0	Belgium	2010
+Ben Gastauer	DNF	0	Luxembourg	2010
+Peter Sagan	DNF	0	Slovakia	2010

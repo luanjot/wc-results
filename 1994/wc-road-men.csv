@@ -1,0 +1,171 @@
+name	result	time_in_seconds	nationality	year
+Luc Leblanc	1	23634	France	1994
+Claudio Chiappucci	2	9	Italy	1994
+Richard Virenque	3	9	France	1994
+Massimo Ghirotto	4	9	Italy	1994
+Dmitri Konychev	5	15	Russia	1994
+Rolf Sørensen	6	42	Denmark	1994
+Lance Armstrong	7	48	United States	1994
+Laudelino Cubino	8	52	Spain	1994
+Bjarne Riis	9	52	Denmark	1994
+Piotr Ugrumov	10	59	Latvia	1994
+NULL	11	64	NULL	1994
+Felice Puttini	12	87	Switzerland	1994
+Laurent Madouas	13	100	France	1994
+Erik Breukink	14	115	Netherlands	1994
+Davide Cassani	15	161	Italy	1994
+Francesco Casagrande	16	229	Italy	1994
+Scott Sunderland	17	367	Australia	1994
+Udo Bolts	18	367	Germany	1994
+Stephane Heulot	19	367	France	1994
+Laurent Dufaux	20	369	Switzerland	1994
+Bruno Cenghialta	21	369	Italy	1994
+Giorgio Furlan	22	370	Italy	1994
+Maurizio Fondriest	23	371	Italy	1994
+Erik Dekker	24	600	Netherlands	1994
+Gianluca Bortolami	25	600	Italy	1994
+Johan Bruyneel	26	600	Belgium	1994
+Vladislav Bobrik	27	600	Russia	1994
+Andrei Tchmil	28	600	Belgium	1994
+Leith Sherwin	29	830	Australia	1994
+Dag-Otto Lauritzen	30	830	Norway	1994
+Marty Jemison	31	830	United States	1994
+Cezary Zamana	32	830	Poland	1994
+Michel Lafis	33	830	Sweden	1994
+Jens Heppner	34	830	Germany	1994
+Francisco Cabello	35	830	Spain	1994
+Quintino Rodrigues	36	830	Portugal	1994
+Edgar-humberto Ruiz	37	830	Colombia	1994
+Angel Edo	38	830	Spain	1994
+Zenon Jasku?a	39	830	Poland	1994
+Andrzej Sypytkowski	40	830	Poland	1994
+Jan Nevens	41	830	Belgium	1994
+Christian Henn	42	830	Germany	1994
+Americo Jose Neves Da Silva	43	830	Portugal	1994
+Romes Gainetdinov	44	830	Russia	1994
+Rolf Aldag	45	830	Germany	1994
+NULL	46	830	NULL	1994
+Bo Hamburger	47	830	Denmark	1994
+Rocco Cattaneo	48	830	Switzerland	1994
+Serhiy Ushakov	49	830	Ukraine	1994
+Bert Dietz	50	830	Germany	1994
+Robert Millar	51	830	Great Britain	1994
+Laurent Brochard	52	830	France	1994
+Andrei Teteriouk	53	830	Kazakhstan	1994
+Pascal Herve	54	830	France	1994
+Laurent Roux	55	830	France	1994
+Pascal Lino	56	830	France	1994
+Didier Rous	57	830	France	1994
+Damian Forster	DNF	0	Australia	1994
+Stephen Hodge	DNF	0	Australia	1994
+Hernan Buenahora	DNF	0	Colombia	1994
+Nelson Rodriguez	DNF	0	Colombia	1994
+Julio Cesar Ortegon	DNF	0	Colombia	1994
+Jorge Leon Otalvaro	DNF	0	Colombia	1994
+Alvaro Mejia	DNF	0	Colombia	1994
+Federico Munoz	DNF	0	Colombia	1994
+Jose Jaime Gonzalez	DNF	0	Colombia	1994
+Henry Cardenas	DNF	0	Colombia	1994
+Luis Edgar Espinosa	DNF	0	Colombia	1994
+Raul Alexander Montana	DNF	0	Colombia	1994
+Luis Alberto Camargo	DNF	0	Colombia	1994
+Atle Kvalsvoll	DNF	0	Norway	1994
+NULL	DNF	0	NULL	1994
+Bo Andre Namtvedt	DNF	0	Norway	1994
+Lars Michaelsen	DNF	0	Denmark	1994
+Johnny Weltz	DNF	0	Denmark	1994
+Jimmi Madsen	DNF	0	Denmark	1994
+Brian Holm Sørensen	DNF	0	Denmark	1994
+Peter Meinert-Nielsen	DNF	0	Denmark	1994
+Jesper Skibby	DNF	0	Denmark	1994
+Gianni Vignaduzzi	DNF	0	Canada	1994
+Gordon Fraser	DNF	0	Canada	1994
+Steve Bauer	DNF	0	Canada	1994
+Gerd Audehem	DNF	0	Germany	1994
+Thomas Fleischer	DNF	0	Germany	1994
+Mario Kummer	DNF	0	Germany	1994
+Jurgen Werner	DNF	0	Germany	1994
+Erik Zabel	DNF	0	Germany	1994
+Josef Holzmann	DNF	0	Germany	1994
+Harry Lodge	DNF	0	Great Britain	1994
+Gary Coltman	DNF	0	Great Britain	1994
+Sean Way	DNF	0	Canada	1994
+NULL	DNF	0	NULL	1994
+Bart Bowen	DNF	0	United States	1994
+Frankie Andreu	DNF	0	United States	1994
+Norman Alvis	DNF	0	United States	1994
+Darren Baker	DNF	0	United States	1994
+George Hincapie	DNF	0	United States	1994
+Steve Hegg	DNF	0	United States	1994
+Scott Mercier	DNF	0	United States	1994
+Andrew Hampsten	DNF	0	United States	1994
+Mike Engleman	DNF	0	United States	1994
+Vladimir Pulnikov	DNF	0	Ukraine	1994
+Fabian Jeker	DNF	0	Switzerland	1994
+Heinz Imboden	DNF	0	Switzerland	1994
+Mauro Gianetti	DNF	0	Switzerland	1994
+Alex Zulle	DNF	0	Switzerland	1994
+Pascal Richard	DNF	0	Switzerland	1994
+Beat Zberg	DNF	0	Switzerland	1994
+Jorg Muller	DNF	0	Switzerland	1994
+Rolf Jarmann	DNF	0	Switzerland	1994
+Roland Meier	DNF	0	Switzerland	1994
+Steve Swart	DNF	0	New Zealand	1994
+Ken Hashikawa	DNF	0	Japan	1994
+Masatoshi Ichikawa	DNF	0	Japan	1994
+Takahiro Yamada	DNF	0	Japan	1994
+Tomokazu Fujino	DNF	0	Japan	1994
+Kyoshi Miura	DNF	0	Japan	1994
+NULL	DNF	0	NULL	1994
+Daisuke Imanaka	DNF	0	Japan	1994
+Zbigniew Piatek	DNF	0	Poland	1994
+Arturas Kasputis	DNF	0	Lithuania	1994
+NULL	DNF	0	NULL	1994
+NULL	DNF	0	NULL	1994
+Joaquim Augusto Gomes	DNF	0	Portugal	1994
+Alexandre Rodriguez	DNF	0	Portugal	1994
+Orlando Sergio Rodrigues	DNF	0	Portugal	1994
+Djamolidine Abduzhaparov	DNF	0	Uzbekistan	1994
+Xavier Perez	DNF	0	Andorra	1994
+Marino Alonso	DNF	0	Spain	1994
+Herminio Diaz Zabala	DNF	0	Spain	1994
+Abraham Olano	DNF	0	Spain	1994
+Manuel Fernandez Gines	DNF	0	Spain	1994
+Inigo Cuesta	DNF	0	Spain	1994
+Arsenio Gonzalez	DNF	0	Spain	1994
+Pedro Delgado	DNF	0	Spain	1994
+Jose Ramon Uriarte	DNF	0	Spain	1994
+Fernando Escartin	DNF	0	Spain	1994
+NULL	DNF	0	NULL	1994
+Massimo Podenzana	DNF	0	Italy	1994
+Gianni Faresin	DNF	0	Italy	1994
+Stefano Della Santa	DNF	0	Italy	1994
+Jacky Durand	DNF	0	France	1994
+Ronan Pensec	DNF	0	France	1994
+Aisar Gorgos	DNF	0	Russia	1994
+Roustam Toukhvatoulin	DNF	0	Russia	1994
+Serguei Smetanine	DNF	0	Russia	1994
+Dimitri Tcherkachine	DNF	0	Russia	1994
+Igor Dzuba	DNF	0	Russia	1994
+Bart Voskamp	DNF	0	Netherlands	1994
+Marco Vermey	DNF	0	Netherlands	1994
+Erwin Nijboer	DNF	0	Netherlands	1994
+Steven Rooks	DNF	0	Netherlands	1994
+Maarten den Bakker	DNF	0	Netherlands	1994
+Adrie van der Poel	DNF	0	Netherlands	1994
+Danny Nelissen	DNF	0	Netherlands	1994
+Michael Boogerd	DNF	0	Netherlands	1994
+NULL	DNF	0	NULL	1994
+Eddy Bouwmans	DNF	0	Netherlands	1994
+Nico Emonds	DNF	0	Belgium	1994
+Axel Merckx	DNF	0	Belgium	1994
+Rudy Verdonck	DNF	0	Belgium	1994
+NULL	DNF	0	NULL	1994
+Edwig Van Hooydonck	DNF	0	Belgium	1994
+Peter De Clercq	DNF	0	Belgium	1994
+Jim Van De Laer	DNF	0	Belgium	1994
+Carlo Bomans	DNF	0	Belgium	1994
+Johan Museeuw	DNF	0	Belgium	1994
+Wilfried Peeters	DNF	0	Belgium	1994
+Georg Totschnig	DNF	0	Austria	1994
+Josef Lontscharitsch	DNF	0	Austria	1994
