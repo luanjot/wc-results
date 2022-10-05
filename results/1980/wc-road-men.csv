@@ -2,9 +2,9 @@ name	result	time_in_seconds	nationality	year
 Bernard Hinault	1	27136	France	1980
 Gianbattista Baronchelli	2	61	Italy	1980
 Juan Fernandez	3	265	Spain	1980
-NULL	4	265	NULL	1980
+Wladimiro Panizza	4	265	Italy	1980
 Jonathan Boyer	5	265	United States	1980
-NULL	6	265	NULL	1980
+Bert Pronk	6	265	Netherlands	1980
 Roger De Vlaeminck	7	265	Belgium	1980
 Jørgen Marcussen	8	265	Denmark	1980
 Sven-Ake Nilsson	9	265	Sweden	1980
@@ -34,11 +34,11 @@ Ove Sulkakoski	DNF	0	Sweden	1980
 Keith Lambert	DNF	0	Great Britain	1980
 Phil Bayton	DNF	0	Great Britain	1980
 Sid Barras	DNF	0	Great Britain	1980
-NULL	DNF	0	NULL	1980
+Phil Edwards	DNF	0	Great Britain	1980
 Dudley Hayton	DNF	0	Great Britain	1980
 Jack Kershaw	DNF	0	Great Britain	1980
 George Mount	DNF	0	United States	1980
-NULL	DNF	0	NULL	1980
+Erwin Lienhard	DNF	0	Switzerland	1980
 Marcel Summermatter	DNF	0	Switzerland	1980
 Ueli Sutter	DNF	0	Switzerland	1980
 Serge Demierre	DNF	0	Switzerland	1980
@@ -47,19 +47,19 @@ Roland Salm	DNF	0	Switzerland	1980
 Josef Wehrli	DNF	0	Switzerland	1980
 Stefan Mutter	DNF	0	Switzerland	1980
 Josef Fuchs	DNF	0	Switzerland	1980
-NULL	DNF	0	NULL	1980
+Thierry Bolle	DNF	0	Switzerland	1980
 Sugita Norio	DNF	0	Japan	1980
 Sean Kelly	DNF	0	Ireland	1980
 Miguel Maria Lasa	DNF	0	Spain	1980
 Faustino Ruperez	DNF	0	Spain	1980
-NULL	DNF	0	NULL	1980
+Alberto Fernandez	DNF	0	Spain	1980
 Angel Arroyo	DNF	0	Spain	1980
 Bernardo Alfonsel	DNF	0	Spain	1980
 Jordi Fortia	DNF	0	Spain	1980
 Jose Luis Laguia	DNF	0	Spain	1980
 Eduardo Chozas	DNF	0	Spain	1980
 Marino Lejarreta	DNF	0	Spain	1980
-NULL	DNF	0	NULL	1980
+Jose Luis Viejo	DNF	0	Spain	1980
 Rafael Ladron	DNF	0	Spain	1980
 Francesco Moser	DNF	0	Italy	1980
 Pierino Gavazzi	DNF	0	Italy	1980
@@ -82,12 +82,12 @@ Jean-Rene Bernaudeau	DNF	0	France	1980
 Andre Chalmel	DNF	0	France	1980
 Bernard Vallet	DNF	0	France	1980
 Piet van Katwijk	DNF	0	Netherlands	1980
-NULL	DNF	0	NULL	1980
+Bert Oosterbosch	DNF	0	Netherlands	1980
 Henk Lubberding	DNF	0	Netherlands	1980
 Jo Maas	DNF	0	Netherlands	1980
 Joop Zoetemelk	DNF	0	Netherlands	1980
 Johan van der Velde	DNF	0	Netherlands	1980
-NULL	DNF	0	NULL	1980
+Gerrie Knetemann	DNF	0	Netherlands	1980
 Jan Raas	DNF	0	Netherlands	1980
 Leo van Vliet	DNF	0	Netherlands	1980
 Hennie Kuiper	DNF	0	Netherlands	1980
@@ -96,12 +96,12 @@ Cees Priem	DNF	0	Netherlands	1980
 Michel Pollentier	DNF	0	Belgium	1980
 Jean-Luc Vandenbroucke	DNF	0	Belgium	1980
 Rene Martens	DNF	0	Belgium	1980
-NULL	DNF	0	NULL	1980
-NULL	DNF	0	NULL	1980
+Herman Van Springel	DNF	0	Belgium	1980
+Daniel Willems	DNF	0	Belgium	1980
 Ronny Claes	DNF	0	Belgium	1980
 Ludo Peeters	DNF	0	Belgium	1980
 Fons de Wolf	DNF	0	Belgium	1980
-NULL	DNF	0	NULL	1980
+Claude Criquielion	DNF	0	Belgium	1980
 Jos Jacobs	DNF	0	Belgium	1980
 Lucien Didier	DNF	0	Luxembourg	1980
 Erich Jagsch	DNF	0	Austria	1980

@@ -6,10 +6,10 @@ Hartmut Bolts	4	41	Germany	1988
 Mauro Gianetti	5	41	Switzerland	1988
 Ronan Pensec	6	41	France	1988
 Davide Cassani	7	41	Italy	1988
-NULL	8	41	NULL	1988
-NULL	9	46	NULL	1988
+Laurent Fignon	8	41	France	1988
+Jaanus Kuum	9	46	Norway	1988
 Allan Peiper	10	55	Australia	1988
-NULL	11	60	NULL	1988
+Claude Criquielion	11	60	Belgium	1988
 Thomas Wegmuller	12	72	Switzerland	1988
 Eddy Planckaert	13	108	Belgium	1988
 Stefano Colage	14	108	Italy	1988
@@ -48,21 +48,21 @@ Erich Machler	46	108	Switzerland	1988
 Olaf Lurvik	47	108	Norway	1988
 Robert Millar	48	108	Great Britain	1988
 Adrie van der Poel	49	108	Netherlands	1988
-NULL	50	108	NULL	1988
+Andreas Kappes	50	108	Germany	1988
 Gilbert Duclos-Lassalle	51	108	France	1988
 Gianni Bugno	52	108	Italy	1988
 Sean Yates	53	108	Great Britain	1988
 Marc Madiot	54	108	France	1988
 Laudelino Cubino	55	108	Spain	1988
 Marino Amadori	56	108	Italy	1988
-NULL	57	108	NULL	1988
+Jesus Rodriguez Magro	57	108	Spain	1988
 Peter Stevenhaagen	58	108	Netherlands	1988
 Giuseppe Saronni	59	108	Italy	1988
 Pedro Delgado	60	108	Spain	1988
 Thierry Marie	61	108	France	1988
 Guido Bontempi	62	108	Italy	1988
 Stephen Hodge	63	108	Australia	1988
-NULL	64	108	NULL	1988
+Franco Ballerini	64	108	Italy	1988
 Erik Breukink	65	108	Netherlands	1988
 Bruno Leali	66	108	Italy	1988
 Fons de Wolf	67	108	Belgium	1988
@@ -83,20 +83,20 @@ Paul Rugari	DNF	0	Australia	1988
 Michael Wilson	DNF	0	Australia	1988
 Peter Besanko	DNF	0	Australia	1988
 Barry Burns	DNF	0	Australia	1988
-NULL	DNF	0	NULL	1988
+Graeme Smith	DNF	0	Australia	1988
 John Nuttall	DNF	0	Australia	1988
 Andrew Robinson	DNF	0	Australia	1988
 Neil Stephens	DNF	0	Australia	1988
-NULL	DNF	0	NULL	1988
+Juan Carlos Castillo	DNF	0	Colombia	1988
 Fabio Enrique Parra	DNF	0	Colombia	1988
 Abelardo Rondon	DNF	0	Colombia	1988
 Luis Alberto Camargo	DNF	0	Colombia	1988
 Alvaro Lozano	DNF	0	Colombia	1988
 Jose Reynel Montoya	DNF	0	Colombia	1988
-NULL	DNF	0	NULL	1988
-NULL	DNF	0	NULL	1988
+Pedro Saul Morales	DNF	0	Colombia	1988
+Celio Roberto Roncancio	DNF	0	Colombia	1988
 Carlos Mario Jaramillo	DNF	0	Colombia	1988
-NULL	DNF	0	NULL	1988
+Nestor Oswaldo Mora	DNF	0	Colombia	1988
 Henry Cardenas	DNF	0	Colombia	1988
 Dag Erik Pedersen	DNF	0	Norway	1988
 Kari Myyrylainen	DNF	0	Finland	1988
@@ -130,7 +130,7 @@ Greg LeMond	DNF	0	United States	1988
 Doug Shapiro	DNF	0	United States	1988
 Joseph Parkin	DNF	0	United States	1988
 Davis Phinney	DNF	0	United States	1988
-NULL	DNF	0	NULL	1988
+Steve Tilford	DNF	0	United States	1988
 Bob Roll	DNF	0	United States	1988
 John Eustice	DNF	0	United States	1988
 Mike Engleman	DNF	0	United States	1988

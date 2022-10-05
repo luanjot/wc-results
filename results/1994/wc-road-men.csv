@@ -9,7 +9,7 @@ Lance Armstrong	7	48	United States	1994
 Laudelino Cubino	8	52	Spain	1994
 Bjarne Riis	9	52	Denmark	1994
 Piotr Ugrumov	10	59	Latvia	1994
-NULL	11	64	NULL	1994
+Armand de Las Cuevas	11	64	France	1994
 Felice Puttini	12	87	Switzerland	1994
 Laurent Madouas	13	100	France	1994
 Erik Breukink	14	115	Netherlands	1994
@@ -44,7 +44,7 @@ Christian Henn	42	830	Germany	1994
 Americo Jose Neves Da Silva	43	830	Portugal	1994
 Romes Gainetdinov	44	830	Russia	1994
 Rolf Aldag	45	830	Germany	1994
-NULL	46	830	NULL	1994
+Andreas Kappes	46	830	Germany	1994
 Bo Hamburger	47	830	Denmark	1994
 Rocco Cattaneo	48	830	Switzerland	1994
 Serhiy Ushakov	49	830	Ukraine	1994
@@ -70,7 +70,7 @@ Luis Edgar Espinosa	DNF	0	Colombia	1994
 Raul Alexander Montana	DNF	0	Colombia	1994
 Luis Alberto Camargo	DNF	0	Colombia	1994
 Atle Kvalsvoll	DNF	0	Norway	1994
-NULL	DNF	0	NULL	1994
+Bjørn Stenersen	DNF	0	Norway	1994
 Bo Andre Namtvedt	DNF	0	Norway	1994
 Lars Michaelsen	DNF	0	Denmark	1994
 Johnny Weltz	DNF	0	Denmark	1994
@@ -90,7 +90,7 @@ Josef Holzmann	DNF	0	Germany	1994
 Harry Lodge	DNF	0	Great Britain	1994
 Gary Coltman	DNF	0	Great Britain	1994
 Sean Way	DNF	0	Canada	1994
-NULL	DNF	0	NULL	1994
+Steve Larsen	DNF	0	United States	1994
 Bart Bowen	DNF	0	United States	1994
 Frankie Andreu	DNF	0	United States	1994
 Norman Alvis	DNF	0	United States	1994
@@ -116,12 +116,12 @@ Masatoshi Ichikawa	DNF	0	Japan	1994
 Takahiro Yamada	DNF	0	Japan	1994
 Tomokazu Fujino	DNF	0	Japan	1994
 Kyoshi Miura	DNF	0	Japan	1994
-NULL	DNF	0	NULL	1994
+Yukiharu Mori	DNF	0	Japan	1994
 Daisuke Imanaka	DNF	0	Japan	1994
 Zbigniew Piatek	DNF	0	Poland	1994
 Arturas Kasputis	DNF	0	Lithuania	1994
-NULL	DNF	0	NULL	1994
-NULL	DNF	0	NULL	1994
+Lubos Lom	DNF	0	Czech Republic	1994
+Manuel Luis Campos Abreu	DNF	0	Portugal	1994
 Joaquim Augusto Gomes	DNF	0	Portugal	1994
 Alexandre Rodriguez	DNF	0	Portugal	1994
 Orlando Sergio Rodrigues	DNF	0	Portugal	1994
@@ -136,7 +136,7 @@ Arsenio Gonzalez	DNF	0	Spain	1994
 Pedro Delgado	DNF	0	Spain	1994
 Jose Ramon Uriarte	DNF	0	Spain	1994
 Fernando Escartin	DNF	0	Spain	1994
-NULL	DNF	0	NULL	1994
+Marco Pantani	DNF	0	Italy	1994
 Massimo Podenzana	DNF	0	Italy	1994
 Gianni Faresin	DNF	0	Italy	1994
 Stefano Della Santa	DNF	0	Italy	1994
@@ -155,12 +155,12 @@ Maarten den Bakker	DNF	0	Netherlands	1994
 Adrie van der Poel	DNF	0	Netherlands	1994
 Danny Nelissen	DNF	0	Netherlands	1994
 Michael Boogerd	DNF	0	Netherlands	1994
-NULL	DNF	0	NULL	1994
+Rob Mulders	DNF	0	Netherlands	1994
 Eddy Bouwmans	DNF	0	Netherlands	1994
 Nico Emonds	DNF	0	Belgium	1994
 Axel Merckx	DNF	0	Belgium	1994
 Rudy Verdonck	DNF	0	Belgium	1994
-NULL	DNF	0	NULL	1994
+Frank Vandenbroucke	DNF	0	Belgium	1994
 Edwig Van Hooydonck	DNF	0	Belgium	1994
 Peter De Clercq	DNF	0	Belgium	1994
 Jim Van De Laer	DNF	0	Belgium	1994

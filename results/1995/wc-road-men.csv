@@ -1,7 +1,7 @@
 name	result	time_in_seconds	nationality	year
 Abraham Olano	1	25795	Spain	1995
 Miguel Indurain	2	35	Spain	1995
-NULL	3	35	NULL	1995
+Marco Pantani	3	35	Italy	1995
 Mauro Gianetti	4	35	Switzerland	1995
 Pascal Richard	5	53	Switzerland	1995
 Richard Virenque	6	91	France	1995
@@ -11,20 +11,20 @@ Rolf Sørensen	9	113	Denmark	1995
 Felice Puttini	10	113	Switzerland	1995
 Israel Antonio Ochoa	11	188	Colombia	1995
 Francesco Casagrande	12	229	Italy	1995
-NULL	13	419	NULL	1995
+Jose Maria Jimenez	13	419	Spain	1995
 Fernando Escartin	14	532	Spain	1995
 Jose Jaime Gonzalez	15	562	Colombia	1995
 Oscar Pellicioli	16	795	Italy	1995
 Paolo Lanfranchi	17	795	Italy	1995
 Zenon Jasku?a	18	924	Poland	1995
-NULL	19	2275	NULL	1995
+Miguel Arroyo	19	2275	Mexico	1995
 Andrew Hampsten	20	2275	United States	1995
 Nelson Rodriguez	DNF	0	Colombia	1995
 Oscar de Jesus Vargas	DNF	0	Colombia	1995
 Henry Cardenas	DNF	0	Colombia	1995
 Juan Diego Ramirez	DNF	0	Colombia	1995
 Libardo Nino	DNF	0	Colombia	1995
-NULL	DNF	0	NULL	1995
+Celio Roberto Roncancio	DNF	0	Colombia	1995
 Luis Alberto Camargo	DNF	0	Colombia	1995
 Alvaro Lozano	DNF	0	Colombia	1995
 Efrain Rico	DNF	0	Colombia	1995
@@ -86,7 +86,7 @@ Pavel Tonkov	DNF	0	Russia	1995
 Erik Breukink	DNF	0	Netherlands	1995
 Raymond Meijs	DNF	0	Netherlands	1995
 Michael Boogerd	DNF	0	Netherlands	1995
-NULL	DNF	0	NULL	1995
+Patrick Eyk	DNF	0	Netherlands	1995
 Tom Cordes	DNF	0	Netherlands	1995
 Erik Dekker	DNF	0	Netherlands	1995
 Frans Maassen	DNF	0	Netherlands	1995

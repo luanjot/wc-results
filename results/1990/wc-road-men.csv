@@ -1,20 +1,20 @@
 name	result	time_in_seconds	nationality	year
-NULL	1	24719	NULL	1990
+Rudy Dhaenens	1	24719	Belgium	1990
 Dirk De Wolf	2	0	Belgium	1990
 Gianni Bugno	3	8	Italy	1990
 Greg LeMond	4	8	United States	1990
 Sean Kelly	5	8	Ireland	1990
 Laurent Jalabert	6	8	France	1990
 Johnny Weltz	7	8	Denmark	1990
-NULL	8	8	NULL	1990
+Andreas Kappes	8	8	Germany	1990
 Maurizio Fondriest	9	8	Italy	1990
-NULL	10	8	NULL	1990
+Claude Criquielion	10	8	Belgium	1990
 Piotr Ugrumov	11	8	Latvia	1990
 Miguel Indurain	12	8	Spain	1990
 Marek Szerszynski	13	8	Poland	1990
 Federico Echave	14	8	Spain	1990
 Pello Ruiz Cabestany	15	8	Spain	1990
-NULL	16	8	NULL	1990
+Joachim Halupczok	16	8	Poland	1990
 Inaki Gaston	17	8	Spain	1990
 Martial Gayant	18	8	France	1990
 Steve Bauer	19	8	Canada	1990
@@ -27,7 +27,7 @@ Mario Kummer	25	45	Germany	1990
 Gilbert Duclos-Lassalle	26	45	France	1990
 Atle Pedersen	27	45	Norway	1990
 Miguel Angel Martinez	28	45	Spain	1990
-NULL	29	45	NULL	1990
+Jesus Rodriguez Magro	29	45	Spain	1990
 Dmitri Konychev	30	45	Russia	1990
 Peter Hilse	31	45	Germany	1990
 Marek Kulas	32	45	Poland	1990
@@ -36,7 +36,7 @@ Hansrudi Marki	34	45	Switzerland	1990
 Alex Pedersen	35	45	Denmark	1990
 Robert Millar	36	45	Great Britain	1990
 Michel Dernies	37	45	Belgium	1990
-NULL	38	45	NULL	1990
+Thierry Claveyrolat	38	45	France	1990
 Dag-Otto Lauritzen	39	45	Norway	1990
 Laudelino Cubino	40	50	Spain	1990
 Sammie Moreels	41	50	Belgium	1990
@@ -45,7 +45,7 @@ Gerard Rue	43	66	France	1990
 Erik Breukink	44	66	Netherlands	1990
 Thomas Wegmuller	45	186	Switzerland	1990
 Bruno Cornillet	46	296	France	1990
-NULL	47	296	NULL	1990
+Franco Ballerini	47	296	Italy	1990
 Eduardo Chozas	48	792	Spain	1990
 Dariusz Kajzer	49	794	Germany	1990
 Pascal Richard	50	794	Switzerland	1990
@@ -60,7 +60,7 @@ Agostino Giramondo	DNF	0	Australia	1990
 Brian Stephens	DNF	0	Australia	1990
 Barry Burns	DNF	0	Australia	1990
 Phil Anderson	DNF	0	Australia	1990
-NULL	DNF	0	NULL	1990
+Jaanus Kuum	DNF	0	Norway	1990
 Atle Kvalsvoll	DNF	0	Norway	1990
 Jesper Skibby	DNF	0	Denmark	1990
 Rolf Sørensen	DNF	0	Denmark	1990
@@ -71,7 +71,7 @@ Dominik Krieger	DNF	0	Germany	1990
 Hartmut Bolts	DNF	0	Germany	1990
 Udo Bolts	DNF	0	Germany	1990
 Rolf Golz	DNF	0	Germany	1990
-NULL	DNF	0	NULL	1990
+Remig Stumpf	DNF	0	Germany	1990
 Christian Henn	DNF	0	Germany	1990
 Colin Sturgess	DNF	0	Great Britain	1990
 Harry Lodge	DNF	0	Great Britain	1990
@@ -98,7 +98,7 @@ Akira Asada	DNF	0	Japan	1990
 Hirofumi Atagi	DNF	0	Japan	1990
 Koki Kabasawa	DNF	0	Japan	1990
 Noboru Fujitani	DNF	0	Japan	1990
-NULL	DNF	0	NULL	1990
+Yukiharu Mori	DNF	0	Japan	1990
 Masahiro Yasuhara	DNF	0	Japan	1990
 Yoshihiro Nogushi	DNF	0	Japan	1990
 Kazuya Hashizume	DNF	0	Japan	1990
@@ -113,7 +113,7 @@ Davide Cassani	DNF	0	Italy	1990
 Massimo Ghirotto	DNF	0	Italy	1990
 Alberto Volpi	DNF	0	Italy	1990
 Massimiliano Lelli	DNF	0	Italy	1990
-NULL	DNF	0	NULL	1990
+Francesco Cesarini	DNF	0	Italy	1990
 Thierry Marie	DNF	0	France	1990
 Gilles Delion	DNF	0	France	1990
 Luc Leblanc	DNF	0	France	1990

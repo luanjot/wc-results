@@ -1,5 +1,5 @@
 name	result	time_in_seconds	nationality	year
-NULL	1	24406	NULL	1984
+Claude Criquielion	1	24406	Belgium	1984
 Claudio Corti	2	14	Italy	1984
 Steve Bauer	3	61	Canada	1984
 Hubert Seiz	4	61	Switzerland	1984
@@ -27,12 +27,12 @@ Jose Patrocinio Jimenez	25	184	Colombia	1984
 Pedro Munoz	26	184	Spain	1984
 Greg LeMond	27	184	United States	1984
 Pierino Gavazzi	28	184	Italy	1984
-NULL	29	184	NULL	1984
+Alberto Fernandez	29	184	Spain	1984
 Dag-Otto Lauritzen	30	408	Norway	1984
 Gottfried Gody Schmutz	31	437	Switzerland	1984
 Marcus Burns	DNF	0	Australia	1984
-NULL	DNF	0	NULL	1984
-NULL	DNF	0	NULL	1984
+Graeme Smith	DNF	0	Australia	1984
+Douglas Garley	DNF	0	Australia	1984
 Wayne Nichols	DNF	0	Australia	1984
 Tom Sawyer	DNF	0	Australia	1984
 Phil Anderson	DNF	0	Australia	1984
@@ -89,14 +89,14 @@ Roberto Ceruti	DNF	0	Italy	1984
 Mario Beccia	DNF	0	Italy	1984
 Francesco Moser	DNF	0	Italy	1984
 Franco Chioccioli	DNF	0	Italy	1984
-NULL	DNF	0	NULL	1984
+Laurent Fignon	DNF	0	France	1984
 Pascal Simon	DNF	0	France	1984
 Marc Madiot	DNF	0	France	1984
 Yvon Madiot	DNF	0	France	1984
 Bernard Vallet	DNF	0	France	1984
 Maurice Le Guilloux	DNF	0	France	1984
 Bernard Hinault	DNF	0	France	1984
-NULL	DNF	0	NULL	1984
+Pascal Jules	DNF	0	France	1984
 Jacques Hanegraaf	DNF	0	Netherlands	1984
 Gerard Veldscholten	DNF	0	Netherlands	1984
 Henk Lubberding	DNF	0	Netherlands	1984
@@ -110,7 +110,7 @@ Steven Rooks	DNF	0	Netherlands	1984
 William Tackaert	DNF	0	Belgium	1984
 Frank Hoste	DNF	0	Belgium	1984
 Jean-Luc Vandenbroucke	DNF	0	Belgium	1984
-NULL	DNF	0	NULL	1984
+Rudy Dhaenens	DNF	0	Belgium	1984
 Nico Emonds	DNF	0	Belgium	1984
 Rudy Rogiers	DNF	0	Belgium	1984
 Guy Nulens	DNF	0	Belgium	1984

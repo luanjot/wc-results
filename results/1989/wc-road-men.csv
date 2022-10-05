@@ -3,12 +3,12 @@ Greg LeMond	1	24359	United States	1989
 Dmitri Konychev	2	0	Russia	1989
 Sean Kelly	3	0	Ireland	1989
 Steven Rooks	4	0	Netherlands	1989
-NULL	5	3	NULL	1989
-NULL	6	3	NULL	1989
+Thierry Claveyrolat	5	3	France	1989
+Laurent Fignon	6	3	France	1989
 Martin Earley	7	10	Ireland	1989
 Gianni Bugno	8	10	Italy	1989
 Rolf Sørensen	9	10	Denmark	1989
-NULL	10	10	NULL	1989
+Claude Criquielion	10	10	Belgium	1989
 Marino Lejarreta	11	14	Spain	1989
 Raul Alcala	12	42	Mexico	1989
 Steve Bauer	13	42	Canada	1989
@@ -22,11 +22,11 @@ Pedro Delgado	20	46	Spain	1989
 Atle Kvalsvoll	21	74	Norway	1989
 Maurizio Fondriest	22	74	Italy	1989
 Emanuele Bombini	23	80	Italy	1989
-NULL	24	80	NULL	1989
+Andreas Kappes	24	80	Germany	1989
 Gilles Delion	25	80	France	1989
 Hartmut Bolts	26	84	Germany	1989
 Eric Caritoux	27	84	France	1989
-NULL	28	84	NULL	1989
+Jesus Rodriguez Magro	28	84	Spain	1989
 Gerhard Zadrobilek	29	84	Austria	1989
 Robert Millar	30	102	Great Britain	1989
 Enrique Alberto Aja	31	102	Spain	1989
@@ -52,16 +52,16 @@ Alvaro Mejia	DNF	0	Colombia	1989
 Fabio Enrique Parra	DNF	0	Colombia	1989
 Jose Reynel Montoya	DNF	0	Colombia	1989
 Abelardo Rondon	DNF	0	Colombia	1989
-NULL	DNF	0	NULL	1989
+Nestor Oswaldo Mora	DNF	0	Colombia	1989
 Carlos Mario Jaramillo	DNF	0	Colombia	1989
 William Palacio	DNF	0	Colombia	1989
 Oscar de Jesus Vargas	DNF	0	Colombia	1989
-NULL	DNF	0	NULL	1989
+Celio Roberto Roncancio	DNF	0	Colombia	1989
 Jose Francisco Rodriguez Maldonado	DNF	0	Colombia	1989
 Luis Alberto Herrera	DNF	0	Colombia	1989
 Torjus Larsen	DNF	0	Norway	1989
 Olaf Lurvik	DNF	0	Norway	1989
-NULL	DNF	0	NULL	1989
+Jaanus Kuum	DNF	0	Norway	1989
 Dag Erik Pedersen	DNF	0	Norway	1989
 Dag-Otto Lauritzen	DNF	0	Norway	1989
 Atle Pedersen	DNF	0	Norway	1989
@@ -81,12 +81,12 @@ Peter Gansler	DNF	0	Germany	1989
 Udo Bolts	DNF	0	Germany	1989
 Marcel Wust	DNF	0	Germany	1989
 Josef Holzmann	DNF	0	Germany	1989
-NULL	DNF	0	NULL	1989
+Remig Stumpf	DNF	0	Germany	1989
 Christian Henn	DNF	0	Germany	1989
 Rolf Golz	DNF	0	Germany	1989
 Marcelo Oscar Alexandre	DNF	0	Argentina	1989
 Rafael Gonzalez Escobar	DNF	0	Mexico	1989
-NULL	DNF	0	NULL	1989
+Miguel Arroyo	DNF	0	Mexico	1989
 Deno Davie	DNF	0	Great Britain	1989
 Wayne Bennington	DNF	0	Great Britain	1989
 Sean Yates	DNF	0	Great Britain	1989
@@ -112,7 +112,7 @@ Pascal Richard	DNF	0	Switzerland	1989
 John Mullan	DNF	0	New Zealand	1989
 Leonardo Sierra	DNF	0	Venezuela	1989
 Matsuyoshi Takahashi	DNF	0	Japan	1989
-NULL	DNF	0	NULL	1989
+Yukiharu Mori	DNF	0	Japan	1989
 Masatoshi Ichikawa	DNF	0	Japan	1989
 Hideo Murakami	DNF	0	Japan	1989
 Noboru Fujitani	DNF	0	Japan	1989
@@ -123,8 +123,8 @@ Marek Kulas	DNF	0	Poland	1989
 Marek Szerszynski	DNF	0	Poland	1989
 Andrzej Polkosnik	DNF	0	Poland	1989
 Zbigniew Krudysz	DNF	0	Poland	1989
-NULL	DNF	0	NULL	1989
-NULL	DNF	0	NULL	1989
+Manuel Luis Campos Abreu	DNF	0	Portugal	1989
+Jose Santiago	DNF	0	Portugal	1989
 Acacio da Silva	DNF	0	Portugal	1989
 Americo Jose Neves Da Silva	DNF	0	Portugal	1989
 Carlos Moreira	DNF	0	Portugal	1989
@@ -139,10 +139,10 @@ Jokin Mujika	DNF	0	Spain	1989
 Miguel Indurain	DNF	0	Spain	1989
 Marco Vitali	DNF	0	Italy	1989
 Moreno Argentin	DNF	0	Italy	1989
-NULL	DNF	0	NULL	1989
+Francesco Cesarini	DNF	0	Italy	1989
 Claudio Chiappucci	DNF	0	Italy	1989
 Stefano Colage	DNF	0	Italy	1989
-NULL	DNF	0	NULL	1989
+Franco Ballerini	DNF	0	Italy	1989
 Davide Cassani	DNF	0	Italy	1989
 Franco Chioccioli	DNF	0	Italy	1989
 Marino Amadori	DNF	0	Italy	1989
@@ -151,7 +151,7 @@ Martial Gayant	DNF	0	France	1989
 Bruno Cornillet	DNF	0	France	1989
 Marc Madiot	DNF	0	France	1989
 Gerard Rue	DNF	0	France	1989
-NULL	DNF	0	NULL	1989
+Dominique Arnaud	DNF	0	France	1989
 Christophe Lavainne	DNF	0	France	1989
 Adrie van der Poel	DNF	0	Netherlands	1989
 Frans Maassen	DNF	0	Netherlands	1989
@@ -176,7 +176,7 @@ Pascal Triebel	DNF	0	Luxembourg	1989
 Uladzimir Murauski	DNF	0	Belarus	1989
 Arvi Tammesalu	DNF	0	Estonia	1989
 Riho Suun	DNF	0	Estonia	1989
-NULL	DNF	0	NULL	1989
+Alexandre Zinoview	DNF	0	Ukraine	1989
 Sergei Uslamine	DNF	0	Russia	1989
 Toomas Kirsipuu	DNF	0	Estonia	1989
 Oleg Iarochenko	DNF	0	Russia	1989

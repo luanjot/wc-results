@@ -3,7 +3,7 @@ Greg LeMond	1	25281	United States	1983
 Adrie van der Poel	2	71	Netherlands	1983
 Stephen Roche	3	71	Ireland	1983
 Faustino Ruperez	4	71	Spain	1983
-NULL	5	71	NULL	1983
+Claude Criquielion	5	71	Belgium	1983
 Erich Machler	6	93	Switzerland	1983
 Jean-Luc Vandenbroucke	7	93	Belgium	1983
 Sean Kelly	8	96	Ireland	1983
@@ -20,14 +20,14 @@ Jean-Marie Grezet	18	96	Switzerland	1983
 Gilbert Duclos-Lassalle	19	96	France	1983
 Peter Winnen	20	96	Netherlands	1983
 Bernard Bourreau	21	96	France	1983
-NULL	22	96	NULL	1983
+Dominique Arnaud	22	96	France	1983
 Eduardo Chozas	23	96	Spain	1983
 Angel Arroyo	24	96	Spain	1983
 Marino Lejarreta	25	96	Spain	1983
 Beat Breu	26	96	Switzerland	1983
 Rene Martens	27	96	Belgium	1983
 Luciano Loro	28	96	Italy	1983
-NULL	29	96	NULL	1983
+Laurent Fignon	29	96	France	1983
 Jonathan Boyer	30	96	United States	1983
 Jostein Wilmann	31	96	Norway	1983
 Gianbattista Baronchelli	32	96	Italy	1983
@@ -38,7 +38,7 @@ Sven-Ake Nilsson	36	96	Sweden	1983
 Robert Millar	37	96	Great Britain	1983
 Joop Zoetemelk	38	96	Netherlands	1983
 Gerard Veldscholten	39	96	Netherlands	1983
-NULL	40	330	NULL	1983
+Alberto Fernandez	40	330	Spain	1983
 Dag Erik Pedersen	41	330	Norway	1983
 Moreno Argentin	42	330	Italy	1983
 Antonio Ferretti	43	585	Switzerland	1983
@@ -76,7 +76,7 @@ Julius Thallmann	DNF	0	Switzerland	1983
 Daniel Gisiger	DNF	0	Switzerland	1983
 Bernard Gavillet	DNF	0	Switzerland	1983
 Marcel Russenberger	DNF	0	Switzerland	1983
-NULL	DNF	0	NULL	1983
+Sigmund Hermann	DNF	0	Liechtenstein	1983
 Carlos Hernandez	DNF	0	Spain	1983
 Jose Recio	DNF	0	Spain	1983
 Pedro Delgado	DNF	0	Spain	1983
@@ -95,9 +95,9 @@ Bruno Leali	DNF	0	Italy	1983
 Dominique Garde	DNF	0	France	1983
 Christian Jourdan	DNF	0	France	1983
 Jean-Rene Bernaudeau	DNF	0	France	1983
-NULL	DNF	0	NULL	1983
+Pascal Jules	DNF	0	France	1983
 Philippe Leleu	DNF	0	France	1983
-NULL	DNF	0	NULL	1983
+Regis Clere	DNF	0	France	1983
 Henk Lubberding	DNF	0	Netherlands	1983
 Johan Lammerts	DNF	0	Netherlands	1983
 Henri Manders	DNF	0	Netherlands	1983
@@ -107,7 +107,7 @@ Leo van Vliet	DNF	0	Netherlands	1983
 Steven Rooks	DNF	0	Netherlands	1983
 Ludo Peeters	DNF	0	Belgium	1983
 Michel Dernies	DNF	0	Belgium	1983
-NULL	DNF	0	NULL	1983
+Paul Haghedooren	DNF	0	Belgium	1983
 Frank Hoste	DNF	0	Belgium	1983
 Michel Pollentier	DNF	0	Belgium	1983
 Eric Vanderaerden	DNF	0	Belgium	1983

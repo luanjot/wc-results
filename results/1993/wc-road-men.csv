@@ -11,7 +11,7 @@ Bjarne Riis	9	19	Denmark	1993
 Frans Maassen	10	19	Netherlands	1993
 Marco Giovannetti	11	19	Italy	1993
 Claudio Chiappucci	12	24	Italy	1993
-NULL	13	77	NULL	1993
+Andreas Kappes	13	77	Germany	1993
 Adrie van der Poel	14	77	Netherlands	1993
 Laurent Jalabert	15	107	France	1993
 Viatcheslav Ekimov	16	107	Russia	1993
@@ -26,7 +26,7 @@ Pascal Richard	24	107	Switzerland	1993
 Cezary Zamana	25	107	Poland	1993
 Johnny Weltz	26	107	Denmark	1993
 Jan Svorada	27	107	Czech Republic	1993
-NULL	28	107	NULL	1993
+Steve Larsen	28	107	United States	1993
 Giancarlo Perini	29	107	Italy	1993
 Gianni Faresin	30	107	Italy	1993
 Massimo Podenzana	31	107	Italy	1993
@@ -60,7 +60,7 @@ John van den Akker	58	802	Netherlands	1993
 Beat Zberg	59	802	Switzerland	1993
 Sean Way	60	1134	Canada	1993
 Thomas Bay	61	1134	Denmark	1993
-NULL	62	1134	NULL	1993
+Dmitry Nelyubin	62	1134	Russia	1993
 Roustam Toukhvatoulin	63	1134	Russia	1993
 Tony Doyle	64	1134	Great Britain	1993
 John Tanner	65	1134	Great Britain	1993
@@ -79,8 +79,8 @@ Angel Yesid Camargo	DNF	0	Colombia	1993
 Julio Cesar Cadena	DNF	0	Colombia	1993
 Javier de Jesus Zapata	DNF	0	Colombia	1993
 Atle Kvalsvoll	DNF	0	Norway	1993
-NULL	DNF	0	NULL	1993
-NULL	DNF	0	NULL	1993
+Bjørn Stenersen	DNF	0	Norway	1993
+Jaanus Kuum	DNF	0	Norway	1993
 Brian Holm Sørensen	DNF	0	Denmark	1993
 Jesper Skibby	DNF	0	Denmark	1993
 Kenneth Weltz	DNF	0	Denmark	1993
@@ -93,7 +93,7 @@ Kai Hundertmarck	DNF	0	Germany	1993
 Heinrich Trumheller	DNF	0	Germany	1993
 Erik Zabel	DNF	0	Germany	1993
 Rolf Aldag	DNF	0	Germany	1993
-NULL	DNF	0	NULL	1993
+Miguel Arroyo	DNF	0	Mexico	1993
 Raul Alcala	DNF	0	Mexico	1993
 Andrei Teteriouk	DNF	0	Kazakhstan	1993
 Oleg Kozlitine	DNF	0	Kazakhstan	1993
@@ -118,13 +118,13 @@ Andrew Mclean	DNF	0	South Africa	1993
 Carlos Alberto Maya	DNF	0	Venezuela	1993
 Leonardo Sierra	DNF	0	Venezuela	1993
 Masatoshi Ichikawa	DNF	0	Japan	1993
-NULL	DNF	0	NULL	1993
+Yukiharu Mori	DNF	0	Japan	1993
 Kazuya Hashizume	DNF	0	Japan	1993
 Takahiro Yamada	DNF	0	Japan	1993
 Tomokazu Fujino	DNF	0	Japan	1993
-NULL	DNF	0	NULL	1993
+Wanderley Magalhaes Azevedo	DNF	0	Brazil	1993
 Zenon Jasku?a	DNF	0	Poland	1993
-NULL	DNF	0	NULL	1993
+Lubos Lom	DNF	0	Czech Republic	1993
 Martin Earley	DNF	0	Ireland	1993
 Stephen Roche	DNF	0	Ireland	1993
 Xavier Perez	DNF	0	Andorra	1993
@@ -139,7 +139,7 @@ Moreno Argentin	DNF	0	Italy	1993
 Davide Cassani	DNF	0	Italy	1993
 Gianni Bugno	DNF	0	Italy	1993
 Gilles Delion	DNF	0	France	1993
-NULL	DNF	0	NULL	1993
+Thierry Claveyrolat	DNF	0	France	1993
 Jean-Claude Colotti	DNF	0	France	1993
 Charly Mottet	DNF	0	France	1993
 Luc Leblanc	DNF	0	France	1993

@@ -2,7 +2,7 @@ name	result	time_in_seconds	nationality	year
 Leontien Zijlaard-van Moorsel	1	8480	Netherlands	1993
 Jeannie Longo	2	0	France	1993
 Laura Charameda	3	4	United States	1993
-NULL	4	4	NULL	1993
+Michela Fanini	4	4	Italy	1993
 Sally Zack	5	4	United States	1993
 Cathy Reardon	6	4	Australia	1993
 Luzia Zberg	7	4	Switzerland	1993
@@ -25,7 +25,7 @@ Julie Young	23	4	United States	1993
 Jeanne Golay	24	4	United States	1993
 Fabiana Luperini	25	4	Italy	1993
 Roberta Bonanomi	26	4	Italy	1993
-NULL	27	13	NULL	1993
+Zinaida Stahurskaya	27	13	Belarus	1993
 Anne Samplonius	28	18	Canada	1993
 Alison Dunlap	29	26	United States	1993
 Alison Sydor	30	26	Canada	1993
@@ -70,7 +70,7 @@ Gunhild Øm	68	26	Norway	1993
 Natalia Youganiouk	69	26	Ukraine	1993
 Yvonne Schnorf	70	26	Switzerland	1993
 Jackie Martin	71	26	South Africa	1993
-NULL	72	26	NULL	1993
+Zita Urbonaite	72	26	Lithuania	1993
 Karen Kurreck	73	26	United States	1993
 Susy Pryde	74	26	New Zealand	1993
 Bogumi?a Matusiak	75	26	Poland	1993
